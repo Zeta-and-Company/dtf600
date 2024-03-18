@@ -1,0 +1,601 @@
+idno	translation	other-identifier	author-name	num-authors	author-gender	author-nationality	book-title	publ-first	publ-edition	publ-ref	publ-decade	publisher	collection	subgenre	type	ISBN	status	counter	read	Bemerkungen	protagonists	narration	setting-type	setting-place	setting-time	translator(s)	title-original	publ-original	Startkorpus	Duplikat prüfen	scifi	sentimental	policier	blanche
+AlexanderD_Tour	yes		Alexander, David	1	male	USA	La tour, prends garde...		1992	1992	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2256-X	tei	1								Catelot, G.-A.	Murder points a finger				no	no	yes	no
+Amelin_Jardins	no		Amelin, Michel	1	male	FRA	Les jardins du casino		1989	1989	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1879-1	tei	1													no	no	yes	no
+Amila_Balcon	no	rv0672	Amila, Jean	1	male	FRA	Balcon Hiroshima	1985		1985	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Amila_Boucher	no	rv0679	Amila, Jean	1	male	FRA	Le Boucher des Hurlus	1982		1982	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Amila_Nef	no	rv0684	Amila, Jean	1	male	FRA	Nef Dingues	1972		1972	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Andre_Celle	no		Andre, Alix	1	female	FRA	Celle qu’on n’attend pas		1977	1977	1970s	Tallandier	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Andre_Chevalier	no		Andre, Alix	1	female	FRA	Le chevalier errant		1972	1972	1970s	Tallandier	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Andre_Maison	no		Andre, Alix	1	female	FRA	La maison du corsaire		1970	1970	1970s	Tallandier	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Andre_Mal	no		Andre, Alix	1	female	FRA	Ce mal s'appelle l'amour		1977	1977	1970s	Tallandier	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Andre_Neiges	no		Andre, Alix	1	female	FRA	Les neiges d'Offenburg		1977	1977	1970s	Tallandier	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Andreota_Pieuvre	no		Andreota, Paul	1	male	FRA	La pieuvre		1989	1989	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1892-9	tei	1	no												no	no	yes	no
+Andreota_Zigzags	no		Andreota, Paul	1	male	FRA	Zigzags		1989	1989	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1964-X	tei	1	no												no	no	yes	no
+Andrevon_Cauchemar	no		Andrevon, Jean-Pierre	1	male	FRA	Cauchemar...chauchemars!		1982	1982	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-21281-4	tei	1		Kapitel nicht erkannt											yes	no	no	no
+Andrevon_Desert	no		Andrevon, Jean-Pierre	1	male	FRA	Le désert du monde		1977	1977	1970s	Denoël	Présence du futur	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Andrevon_Faudra	no		Andrevon, Jean-Pierre	1	male	FRA	Il faudra bien se résoudre à mourir seul		1983	1983	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30363-2	tei	1													yes	no	no	no
+Andrevon_Gandahar	no		Andrevon, Jean-Pierre	1	male	FRA	Gandahar et l’oiseau-monde		1997	1997	1990s	Hachette	Vertige science-fiction	scifi	populaire	2-01-209634-4	tei	1													yes	no	no	no
+Andrevon_Oreille	no		Andrevon, Jean-Pierre	1	male	FRA	L'oreille contre les murs		1980	1980	1980s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Andrevon_Trace	no		Andrevon, Jean-Pierre	1	male	FRA	La trace des rêves		1988	1988	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-22372-7	tei	1													yes	no	no	no
+Arden_Capri	yes		Arden, Jenny	1	female	GBR	Capri nostalgie		1991	1991	1990s	Harlequin	Azur	sentimental	populaire	2-280-00901-3	tei	1	no	S. 37f.: umgeknickte Seite						Corrèze, Maica	This time, forever	1989			no	yes	no	no
+Assada_Coffret			Assada, Marie-Louise	1	female	FRA	Le coffret inca		1977	1977	1970s	Tallandier	Arc-en-Ciel	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Assada_Soir			Assada, Marie-Louise	1	female	FRA	Un soir, à Ceylan...		1977	1977	1970s	Tallandier	Arc-en-Ciel	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Ayerdhal_Geneses			Ayerdhal	10			Genèses		1996	1996	1990s	J'ai lu		scifi	populaire	2-290-04279-X	tei	1		Sammlung von Kurzgeschichten											yes	no	no	no
+Ayerdhal_Histrion	no		Ayerdhal	1	male	FRA	L'histrion	1993	1993	1993	1990s	J'ai lu	Science-fiction	scifi	populaire	2-277-23526-1	tei	1													yes	no	no	no
+Bachellerie_Ile	no		Bachellerie, Louise	1	female	FRA	L'île aux muettes		1985	1985	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1613-6	tei	1													no	no	yes	no
+Ballard_Vent	yes		Ballard, James Graham	1	male	GBR	Amoureuse malgré elle		1977	1977	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01850-7	tei	1		Kapitel nicht durchgehend erkannt						Lathière, René	The Wind from Nowhere				yes	no	no	no
+Ballard_Vermillion	yes		Ballard, James Graham	1	male	GBR	Vermillion Sands	1975	1979	1975	1970s			scifi	populaire	2-253-02311-6	tei	1													yes	no	no	no
+Barnard_Attachement	yes		Barnard, Robert	1	male	GBR	Attachement fatal		1995	1995	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2435-X	tei	1								Hamel, Annie	Fatal attachment				no	no	yes	no
+Barr_Feu	yes		Barr, Nevada	1	female	USA	Le feu du ciel		1997	1997	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2755-3	tei	1		Kapitel 1 - 9 nicht erkannt							Firestorm				no	no	yes	no
+Bartlett_Allie	yes		Bartlett, Kay	1	female	USA	L'allié de l'ombre		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832489	tei	1		Titelblatt herausgerissen  Dépot légal février 1990						(unknown)	(unknown)				no	yes	no	no
+Bass_Humanite	yes		Bass, T.J.	1	male	USA	Humanité et demie	1975	1979	1975	1970s			scifi	populaire	2-253-02208-X	tei	1													yes	no	no	no
+BatailleG_Bleu	no		Bataille, Georges	1	male	FRA	Le bleu du ciel		1999	1999	1990s	Gallimard	Collection l'imaginaire	blanche	blanche	2-07-072328-3	tei	1	no	Kapitel innerhalb der Teile nicht erkannt											no	no	no	yes
+Bataille_Valerie	no		Bataille, Thierry	1	male	FRA	Valérie		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03566-1	tei	1	no	Kapitel nicht erkannt											no	yes	no	no
+Beckett_Mercier	no	rv0181	Beckett, Samuel	1	male	IRL	Mercier et Camier	1970		1970	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Behm_Cherche	yes		Behm, Marc	1	male	USA	Et ne charche pas à savoir	1993	1996	1993	1990s	Rivages	Rivages/Noir	policier	populaire	2-7436-0021-7	tei	1								de Chergé, Gérard	Seek to Know no More	1993			no	no	yes	no
+Belfiore_Fille	no		Belfiore, Robert	1	male	FRA	Une fille de Caïn	1985	1985	1985	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-21800-6	tei	1													yes	no	no	no
+Belfiore_Huiteme	no		Belfiore, Robert	1	male	FRA	La huitème vie du chat	1987	1987	1987	1980s	J'ai lu	Science-fiction	scifi	populaire	9782277222781	tei	1													yes	no	no	no
+Bellemare_Aventuriers			Bellemare, Pierre / Antoine, Jacques	2	male	FRA	Les Aventuriers	1978	2013	1978	1970s	Hachette	Le Livre De Poche	blanche		2-253-02385-X	tei	1													no	no	no	yes
+Benabou_Pourquoi	no		Bénabou, Marcel	1	male	FRA	Pourquoi je n'ai écrit aucun de mes livres	1986	1986	1986	1980s	Hachette	Textes du XXe siècle	blanche	blanche		tei	1	yes												no	no	no	yes
+Benacquista_Saga	no		Benacquista, Tonino	1	male	FRA	Saga		1999	1999	1990s	Gallimard	Folio	blanche	blanche	2-07-040845-0	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Bennett_Mots	yes		Bennett, Connie	1	female	USA	Les mots de la nuit		1991	1991	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07346-3	tei	1	no								Playing by the rules				no	yes	no	no
+Benzimra_Revoir	no		Benzimra, André	1	male	FRA	Pour te revoir, Jonathan		1983	1983	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1454-0	tei	1	no	Kapitel nicht erkannt											no	no	yes	no
+Bergot_DienBienPhu			Bergot, Erwan	1	male	FRA	Les 170 jours de Diên Biên Phu		1979	1979	1970s	Presses de la Cité - Éditions France Loisirs		blanche		2-7242-062H-2	tei	1													no	no	no	yes
+Berthelot_Rivage	no		Berthelot, Francis	1	male	FRA	Rivage des intouchables		1990	1990	1990s	Denoël	Présence du Futur	scifi	populaire	2-207-30507-4	tei	1		Teile und Kapitel											yes	no	no	no
+Bielski_Belles	no		Bielski, Nella	1	female	FRA	Si belles et fraîches étaient les roses		1980	1980	1980s	Mercure de France	Folio	blanche	blanche	2-07-037551-X	tei	1													no	no	no	yes
+Bird_Sandra	yes		Bird, Kenneth	1	male	GBR	Sandra	1971	1971	1971	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire		tei	1													no	no	yes	no
+Blair_Eaux	yes		Blair, Kathryn	1	female	GBR	Eaux dangereuses		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832540	tei	1		Titelblatt herausgerissen  Dépôt légal : avril 1990						(unknown)	(unknown)				no	yes	no	no
+Blaylock_Homunculus	yes		Blaylock, James P.	1	male	USA	Homunculus	1991	1991	1991	1990s	J'ai lu	Science-fiction	scifi	populaire	2-277-23052-9	tei	1													yes	no	no	no
+Bodard_Anne	no		Bodard, Lucien	1	male	FRA	Anne Marie		1981	1981	1980s	Grasset		blanche	blanche	2-246-24241-X	tei	1		Kapitel nicht erkannt											no	no	no	yes
+BoileauNarcejac_Carte	no		Boileau, Pierre / Narcejac, Thomas	2	male	FRA	Carte Vermeil		1979	1979	1970s	Gallimard	Folio	blanche	blanche	2-07-037212-X	tei	1		Kapitel nicht erkannt											no	no	no	yes
+BoileauNarcejac_Intouchables	no		Boileau, Pierre / Narcejac, Thomas	2	male	FRA	Les intouchables	1980	1980	1980	1980s	Denoël	Sueurs froides	policier	populaire	2-07-037595-1	tei	1		keine Kapitelüberschriften vorhanden											no	no	yes	no
+BoileauNarcejac_Poudriere	no	rv1260	Boileau, Pierre / Narcejac, Thomas	2	male	FRA	La Poudrière [Arsène Lupin]	1974	1987	1974	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+BoileauNarcejac_Second	no	rv1261	Boileau, Pierre / Narcejac, Thomas	2	male	FRA	Le Second Visage d'Arsène Lupin	1975	1986	1975	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+BoileauNarcejac_Secret	no	rv1262	Boileau, Pierre / Narcejac, Thomas	2	male	FRA	Le Secret d'Eunerville	1973	1986	1973	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+BoileauNarcejac_Serment	no	rv1263	Boileau, Pierre / Narcejac, Thomas	2	male	FRA	Le Serment d'Arsène Lupin	1979	1987	1979	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Bon_Enterrement	no	rv0526	Bon, François	1	male	FRA	Enterrement	1991		1991	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Bon_Limite	no	rv0527	Bon, François	1	male	FRA	Limite	1985		1985	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Bon_Sortie	no	rv0531	Bon, François	1	male	FRA	Sortie Usine	1982		1982	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Bon_Temps	no	rv0529	Bon, François	1	male	FRA	Temps Machine	1993		1993	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Boswell_Amour	yes		Boswell, Barbara	1	female	USA	L'amour à la une		1988	1988	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-2073-5	tei	1	no	Kapitel nicht erkannt						Lataillade, Christophe	Whatever it takes	1986			no	yes	no	no
+Bouchard_Astronef	no		Bouchard, Nicolas	1	male	FRA	Astronef aux enchères		1999	1999	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06752-0	tei	1													yes	no	no	no
+Boulanger_Confession	no		Boulanger, Daniel	1	male	FRA	La confession d'Omer		1991	1991	1990s	Gallimard	Folio	blanche	blanche	2-07-038767-4	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Boulle_Vertus	no		Boulle, Pierre	1	male	FRA	Les vertus de l'enfer		1974	1974	1970s	Flammarion	Le Livre De Poche	blanche		2-253-01405-2	tei	1													no	no	no	yes
+Bourin_Amours	no		Bourin, Jeanne	1	female	FRA	Les amours blessées		1987	1987	1980s	Gallimard	Folio	blanche	blanche	2-07-038119-6	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Bourin_Grand	no		Bourin, Jeanne	1	female	FRA	Le Grand Feu		1985	1985	1980s	La Table Ronde	Folio	blanche	blanche	2-07-037925-6	tei	1													no	no	no	yes
+Bourin_Peregrines	no		Bourin, Jeanne	1	female	FRA	Les Pérégrines		1989	1989	1980s	Gallimard	Folio	blanche	blanche	2-07-038520-5	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Bradley_Chaine	yes		Zimmer Bradley, Marion	1	female	USA	La chaîne brisée	1979	1979	1979	1970s	Albin Michel	Super-Fiction	scifi	populaire	2-226-00721-0	tei	1													yes	no	no	no
+Branch_Lion	yes		Branch, Pamela	1	female	GBR	Un lion dans la cave		1993	1993	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2337-X	tei	1								Le Gall, M.A.	Lion in the cellar	1951			no	no	yes	no
+Brandon_Fille	yes		Brandon, Joyce	1	female	USA	La fille du bandit		1990	1990	1990s	Harlequin	Grands Romans	sentimental	populaire	2-280-13216-8	tei	1								Esch, Jean	After Eden				no	yes	no	no
+Brunner_Chimeres	yes		Brunner, John	1	male	GBR	Les chimères de l'ombre		1982	1982	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01159-6	tei	1								Haas, Dominique	The Gaudy Shadows	1970			yes	no	no	no
+Brunner_Noire	yes		Brunner, John	1	male	GBR	Noire est la couleur		1984	1984	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01417-X	tei	1								Pugi, J. P.	Black is the color	1969			yes	no	no	no
+Brunner_Ville	yes		Brunner, John	1	male	GBR	La ville est un echiquier		1985	1985	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01560-5	tei	1								Baldy, René	The Squares of the City	1965			yes	no	no	no
+Bruss_Planete	no		Bruss, B.-R.	1	male	FRA	La planète aux Oasis		1970	1970	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1		Teile und Kapitel											yes	no	no	no
+Brussolo_Aussi	no		Brussolo, Serge	1	male	FRA	Aussi lourd que le vent		1981	1981	1980s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Brussolo_Portrait	no		Brussolo, Serge	1	male	FRA	Portrait du diable en chapeau melon		1982	1982	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30348-9	tei	1													yes	no	no	no
+Bucheister_Deux	yes		Bucheister, Patt	1	female	USA	Les deux routes		1988	1988	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02560-5	tei	1	no	Kapitel nicht erkannt							Two roads				no	yes	no	no
+Bucheister_Fortune	yes		Bucheister, Patt	1	female	USA	Fortune irlandaise		1989	1989	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02684-9	tei	1	no	Kapitel nicht erkannt							The luck of the Irish				no	yes	no	no
+Burchell_Chante	yes		Burchell, Mary	1	female	GBR	Chante mon coeur chante		1972	1972	1970s	Harlequin	Serie Club	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Burton_Windspear	yes		Burton, Katherine	1	female	USA	Windspear, monde enchanté		1989	1989	1980s	Harlequin	Collection Or	sentimental	populaire	2-280-07272-6	tei	1								(unknown)	Sweet Summer Heat	1987			no	yes	no	no
+Busino_Cafe	no		Busino, Jean-Jacques	1	male	CHE	Un café, une cigarette		1994	1994	1990s	Rivages	Rivages/Noir	policier	populaire	2-86930-721-7	tei	1													no	no	yes	no
+Cagnati_Genie	no		Cagnati, Inès	1	female	FRA	Génie la folle		1976	1976	1970s	Gallimard	Folio	blanche	blanche	2-07-037114-X	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Cajio_Double	yes		Cajio, Linda	1	female	USA	Double contrat		1988	1988	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02558-3	tei	1	no	Kapitel nicht erkannt						Menanteau, Étienne	Double Dealing	1987			no	yes	no	no
+Cajio_Fil	yes		Cajio, Linda	1	female	USA	Un fil de soie		1989	1989	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02681-4	tei	1	no	Kapitel nicht erkannt						Villers, Margaux	Silk on the Skin	1988			no	yes	no	no
+Calvez_Planete	no		Calvez, Jean-Michel	1	male	FRA	Planète des vents		1997	1997	1990s	Fleuve Noir	SF space	scifi	populaire	2-265 06255.3	tei	1													yes	no	no	no
+Canal_Aube	no		Canal, Richard	1	male	FRA	Aube noire	1994	1994	1994	1990s	J'ai lu	Science-fiction	scifi	populaire	2-277-23669-1	tei	1													yes	no	no	no
+Canal_Malediction	no		Canal, Richard	1	male	FRA	La Malédiction de l'éphémère	1996	1996	1996	1990s	J'ai lu	Science-fiction	scifi	populaire	2-277-24156-3	tei	1													yes	no	no	no
+Canal_Ombres	no		Canal, Richard	1	male	FRA	Ombres blanches	1993	1993	1993	1990s	J'ai lu	Science-fiction	scifi	populaire	2-277-23455-9	tei	1													yes	no	no	no
+Card_Enfants	yes		Card, Orson Scott	1	male	USA	Les enfants de l'esprit	1996	2000	1996	1990s	J’ai lu	J'ai lu	scifi	populaire	2-290-30348-8	tei	1													yes	no	no	no
+Card_Trilogie	yes		Card, Orson Scott	1	male	USA	La trilogie d'Ender	1991	1993	1991	1990s	Éditions Robert Laffont	J'ai lu	scifi	populaire	2-290-31552-4	tei	1													yes	no	no	no
+Cardinal_Grands	no		Cardinal, Marie	1	female	FRA	Les grands désordres		1987	1987	1980s	Grasset		blanche	blanche	2-246-39921-1	tei	1													no	no	no	yes
+Cardinal_Mots	no		Cardinal, Marie	1	female	FRA	Les mots pour le dire		1975	1975	1970s	Grasset		blanche		(unknown)	tei	1													no	no	no	yes
+Carlisle_Femme	yes		Carlisle, Donna	1	female	USA	Une femme sous influence		1991	1991	1990s	Harlequin	Rouge Passion	sentimental	populaire	2-280-12390-8	tei	1	no							For keeps					no	yes	no	no
+Carlisle_Superflic	yes		Carlisle, Donna	1	female	USA	Superflic et superstar		1990	1990	1990s	Harlequin	Rouge Passion	sentimental	populaire	978-2-2801-2306-8	tei	1	no	Titelblatt fehlt  Dépôt légal : mars 1990											no	yes	no	no
+Carmichael_Bar	yes		Carmichael, Harry	1	male	GBR	Au bar des trois plumes	1970	1970	1970	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire		tei	1													no	no	yes	no
+Carmichael_Belle	yes		Carmichael, Harry	1	male	GBR	La belle au bois mourant	1970	1970	1970	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire		tei	1													no	no	yes	no
+Carr_Manoir	yes		Carr, John Dickson	1	male	USA	Le manoir de la mort		1991	1991	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2167-9	tei	1		Kapitelüberschriften nicht erkannt						Monrocq, Dominique	Deadly hall				no	no	yes	no
+Carr_Service	yes		Carr, John Dickson	1	male	USA	Service des affaires inclassables		1988	1988	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1802-3	tei	1		Kapitel nicht erkannt						(unknown)	The Department of Queer Complaints	1940			no	no	yes	no
+Carrere_Moustache	no		Carrère, Emmanuel	1	male	FRA	La moustache		1986	1986	1980s	P.O.L	Folio	blanche	blanche	978-2-07-037883-8	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Cassidy_Fatale	yes		Cassidy, Carla	1	female	USA	Fatale emprise		1994	1994	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16026-9	tei	1	no	sentimental/fantasy							Heart of the beast				no	yes	no	no
+Cassidy_Nuits	yes		Cassidy, Carla	1	female	USA	Les nuits du marécage		1994	1994	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16008-0	tei	1	no	sentimental/fantasy							Swamp secrets				no	yes	no	no
+Chambon_Sentinelle	no		Chambon, Jean	1	male	FRA	La sentinelle		1970	1970	1970s	Christian Bourgois		blanche		(unknown)	tei	1													no	no	no	yes
+Chance_Chantage	yes		Chance, Sara	1	female	USA	Un chantage à l'amour		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83253-4	tei	1		Kapitel nicht durchgehend erkannt						(unknown)	Fire in the Night	1989			no	yes	no	no
+Chance_Secret	yes		Chance, Sara	1	female	USA	Ce secret entre nous		1989	1989	1980s	Harlequin	Rouge Passion	sentimental	populaire	2-280-12272-3	tei	1	no								Woman in the shadows				no	yes	no	no
+Chandler_Tueur	yes		Chandler, Raymond	1	male	USA	Un tueur sous la pluie		1972	1972	1970s	Gallimard	Série noire	policier	populaire	2-07-043342-0	tei	1		Kapitel nicht durchgehend erkannt						Robillot, Henri	Killer in the Rain				no	no	yes	no
+Chapsal_Grands	no		Chapsal, Madeleine	1	female	FRA	Grands cris dans la nuit du couple		1976	1976	1970s	Gallimard	Folio	blanche	blanche	2-07-037359-2	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Charmasson_Crepuscule	no		Charmasson, Guy	1	male	FRA	Le crépuscule des surhommes	1978	1978	1978	1970s	Marabout	bibliothèque marabout / science-fiction	scifi	populaire		tei	1		keine ISBN											yes	no	no	no
+Charriere_Foret	no		Charrière, Christian	1	male	FRA	La forêt d'Iscambe	1993	2007	1993	1990s	Phébus	Fantasy	scifi	populaire	978-2-7578-0327-1	tei	1													yes	no	no	no
+Cheng_Dit	no		Cheng, François	1	male	FRA	Le dit de Tian-yi		1998	1998	1990s		(unknown)	blanche	blanche	978-2-253-15101-2	tei	1		Teile und Kapitel											no	no	no	yes
+Cheron_Assassin	no		Chéron, Bertrand	1	male	FRA	L'assassin viendra à l'aube	1975	1975	1975	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0364-6	tei	1													no	no	yes	no
+Cherryh_Retour	yes		Cherryh, C.J.	1	female	USA	Le retour de Chanur	1989	1989	1989	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-22609-2	tei	1													yes	no	no	no
+Cherryh_Seigneurs	yes		Cherryh, C.J.	1	female	USA	Les seigneurs de l'Hydre	1983	1991	1983	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-21420-5	tei	1													yes	no	no	no
+Christophe_Tyran			Christope, Jacques				Ce tyran que j'aimais		1978	1978	1970s	Tallandier	Le Cercle Romanesque	sentimental		(unknown)	tei	1													no	yes	no	no
+ClarinardOlliver_Ombre	no		Ollivier Mikael / Clarinard, Raymond	2	male	FRA	L'ombre de Mars	1997	1997	1997	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06183-2	tei	1													yes	no	no	no
+Clarinard_Cite	no		Clarinard, Raymond	1	male	FRA	La cité sans mémoire	1998	1998	1998	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06439-4	tei	1													yes	no	no	no
+Clarke_Marteau	yes		Clarke, Arthur C.	1	male	USA	Le marteau de Dieu	1995	1995	1995	1990s	J'ai lu	Science-fiction	scifi	populaire	9-782277-239734	tei	1													yes	no	no	no
+Clausse_Comme			Clausse, Suzanne	1	female	FRA	Comme un souffle brulant		1978	1978	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Clausse_Pre			Clausse, Suzanne	1	female	FRA	Le pré des saules		1971	1971	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Clot_Enfant	no		Clot, René-Jean	1	male	FRA	L'Enfant halluciné		1987	1987	1980s	Grasset		blanche	blanche	2-246-37561-4	tei	1													no	no	no	yes
+Coburn_Peines	yes		Coburn, Andrew	1	male	USA	Toutes peines confondues		1992	1992	1990s	Rivages	Rivages/Noir	policier	populaire	2-86930-544-3	tei	1								Reynolds, Pierre	Sweetheart	1985			no	no	yes	no
+Cody_Tete	yes		Cody, Liza	1	female	GBR	Sans la tête		1998	1998	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2861-4	tei	1								Retaillaud, Julien	Musclebound				no	no	yes	no
+Combescot_Filles	no		Combescot, Pierre	1	male	FRA	Les filles du Calvaire		1991	1991	1990s	Grasset		blanche	blanche	2-246-43541-2	tei	1													no	no	no	yes
+Coney_Charisme	yes		Coney, Michaël	1	male	GBR	Charisme		1976	1976	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01798-5	tei	1								Polanis, Jacques	Charisme				yes	no	no	no
+Coney_Crocs	yes		Coney, Michaël	1	male	GBR	Les crocs et les griffes		1980	1980	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01664-4	tei	1								Pugi, Jean-Pierre	Les crocs et les griffes	1975			yes	no	no	no
+Coney_Immortels	yes		Coney, Michaël	1	male	GBR	Immortels en conserve		1977	1977	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01304-1	tei	1								Goimard, Jacques	Friends come in Boxes	1973			yes	no	no	no
+Constant_Confidence	no		Constant, Paule	1	female	FRA	Confidence pour confidence		1998	1998	1990s	Gallimard	Collection Blanche	blanche	blanche	2-07-075231-3	tei	1		keine Kapitelüberschriften											no	no	no	yes
+Constant_Fille	no		Constant, Paule	1	female	FRA	La fille du Gobernator		1994	1994	1990s	Gallimard	Folio	blanche	blanche	2-07-040079-4	tei	1													no	no	no	yes
+Cosse_Coin	no		Cossé, Laurence	1	male	FRA	Le coin du voile		1996	1996	1990s	Gallimard	Folio	blanche	blanche	2-07-040540-0	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Cosse_Femme	no		Cossé, Laurence	1	female	FRA	La femme du premier ministre		1998	1998	1990s	Gallimard	Folio	blanche	blanche	2-07-075359-X	tei	1													no	no	no	yes
+Coupon_Pluie	no		Coupon, Henry	1	male	FRA	La pluie et le beau temps	1977	1977	1977	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0677-7	tei	1													no	no	yes	no
+Craven_Jamais			Craven, Sara	1	female	GBR	Jamais je ne t'oublierai	1978	1979	1978	1970s	Harlequin	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Creasey_Sang	yes		Creasey, John	1	male	GBR	Du sang sur les rails	1970	1970	1970	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire		tei	1													no	no	yes	no
+Crispin_Prelude	yes		Crispin, Edmund	1	male	GBR	Prélude et mort d'Isolde		1988	1988	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1845-7	tei	1								André, Jean/Rey, Claudine	The Case of the Gilded Fly	1986			no	no	yes	no
+Cross_Mort	yes		Cross, Amanda	1	female	USA	Une mort si douce	1996	1998	1996	1990s	Rivages	Rivages/Mystère	policier	populaire	2-7436-0402-6	tei	1								Cheval, Catherine	Sweet Death, Kind Death	1983			no	no	yes	no
+Cross_Smiley	yes		Cross, Amanda	1	female	USA	Sur les pas de Smiley	1997	1999	1997	1990s	Rivages	Rivages/Mystère	policier	populaire	2-7436-0564-2	tei	1								Faure-Geors, Corinne	An Imperfect Spy	1995			no	no	yes	no
+Curval_Forteresse	no		Curval, Philippe	1	male	FRA	La forteresse de coton		1979	1979	1970s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1										1967			yes	no	no	no
+Curval_Habite	no		Curval, Philippe	1	male	FRA	Habite-t-on réellement quelque part?		1989	1989	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30484-1	tei	1										(unknown)			yes	no	no	no
+Curval_Jouer	no		Curval, Philippe	1	male	FRA	Comment jouer à l'homme invisible en trois lecons		1986	1986	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30420-5	tei	1										(unknown)			yes	no	no	no
+Curval_Soupcon	no		Curval, Philippe	1	male	FRA	Un soupçon de néant		1977	1977	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-00360-7	tei	1													yes	no	no	no
+Daeninckx_Bourreau	no	rv1241	Daeninckx, Didier	1	male	FRA	Le Bourreau	1986		1986	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		alle Kapitel zweimal vorhanden, enthalten aber verschiedenen Text											no	no	yes	no
+Daeninckx_Chateau	no	rv1249	Daeninckx, Didier	1	male	FRA	Un Château en Bohême	1994		1994	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Daeninckx_Der	no	rv1243	Daeninckx, Didier	1	male	FRA	Le Der Des Ders	1984		1984	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Daeninckx_Geant	no	rv1245	Daeninckx, Didier	1	male	FRA	Le Géant Inachevé	1984		1984	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Daeninckx_Mort	no	rv1017	Daeninckx, Didier	1	male	FRA	Mort au Premier Tour	1997		1997	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		in je einem <head>-tag Zahl und Kapitelüberschrift											no	no	yes	no
+Daeninckx_Nazis	no	rv1018	Daeninckx, Didier	1	male	FRA	Nazis dans le Métro	1996		1996	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Daeninckx_Oublie	no	rv1016	Daeninckx, Didier	1	male	FRA	La Mort n'oublie personne	1989		1989	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Daeninckx_Play	no	rv1248	Daeninckx, Didier	1	male	FRA	Play-Back	1986		1986	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Dailey_Belle			Dailey, Janet	1	female	GBR	La belle et le vaurien		1979	1979	1970s	Harlequin	(unknown)	sentimental	populaire	0-373-49078-X	tei	1													no	yes	no	no
+Dailey_Flammes			Dailey, Janet	1	female	GBR	Flammes d'automne		1979	1979	1970s	Harlequin	(unknown)	sentimental	populaire	2-862-59082-7	tei	1													no	yes	no	no
+Dailey_Ouragan			Dailey, Janet	1	female	GBR	L'Ouragan passera		1975	1975	1970s	Harlequin	(unknown)	sentimental	populaire	(unknown)	tei	1													no	yes	no	no
+Dard_Concerto	no	rv1198	Dard, Frédéric	1	male	FRA	Concerto pour porte-jarretelles	1976		1976	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Dard_Essaye	no	rv1107	Dard, Frédéric	1	male	FRA	J'ai Essayé, on peut!	1973		1973	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Dard_Fais	no	rv1108	Dard, Frédéric	1	male	FRA	Fais-Moi des choses	1978		1978	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Dard_Moi	no	rv1103	Dard, Frédéric	1	male	FRA	Moi, Vous me Connaissez...?	1971		1971	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Teile und Kapitel											no	no	yes	no
+Dard_Valsez	no	rv1190	Dard, Frédéric	1	male	FRA	Valsez, Pouffiasses	1989		1989	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Darmon_Baisse	no		Darmon, Paule	1	female	FRA	Baisse les yeux, Sarah		1980	1980	1980s	Grasset		blanche	blanche	2-246-00940-5	tei	1		Keine Kapitelüberschriften vorhanden											no	no	no	yes
+Dartey_Cœur			Dartey, Léo	1	female	FRA	Cœurs en péril		1974	1974	1970s	Tallandier	Le Cercle Romanesque	sentimental		(unknown)	tei	1													no	yes	no	no
+Davet_Promenade			Davet, Michel	1	female	FRA	La promenade des colombes		1977	1977	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Davet_Tentation			Davet, Michel	1	female	FRA	La tentation de Copenhague		1978	1978	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Davis_Pleuvait	yes		Davis, Maggie	1	female		Il pleuvait sur Griffin...		1990	1990	1990s	Harlequin	Duo Desir	sentimental	populaire	2-280-85297-7	tei	1								(unknown)	Dreamboat				no	yes	no	no
+Deff_Psychopompes	no		Deff, Red	1	male	FRA	Les psychopompes de Klash		1990	1990	1990s	Fleuve noir	Anticipation	scifi	populaire	2-265-04265-X	tei	1													yes	no	no	no
+Delany_Tours	yes		Delany, Samuel R.	1	male	USA	Les tours de Toron		1989	1989	1980s	Presses Pocket	Science-Fantasy	scifi	populaire	2-266-03172-4	tei	1													yes	no	no	no
+Deon_Bagages	no		Déon, Michel	1	male	FRA	Bagages pour Vancouver. Mes arches de Noé		1985	1985	1980s	Gallimard	Folio	blanche	blanche	2-07-037886-1	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Deon_Montee	no		Déon, Michel	1	male	FRA	La montée du soir		1987	1987	1980s	Gallimard		blanche	blanche	02-07-070984-1	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Derenne_Cylia	no		Derenne, Elisabeth	1	female		Cylia		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03616-1	tei	1	no	Kapitel nicht erkannt											no	yes	no	no
+Didelot_Ombres	no		Didelot, Francis	1	male	FRA	Les ombres du parking		1980	1980	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1045-6	tei	1	no												no	no	yes	no
+Didier_Entree	no		Didier, Christiane	1	female		Entrée interdite		1971	1971	1970s	Le Masque	Romans d'aventures	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Djian_Sotos	no		Djian, Philippe	1	male	FRA	Sotos		1995	1995	1990s	Gallimard	Collection Folio	blanche	populaire	2-07-039303-8	tei	1	no	Seitenzahlen wurden erkannt und in <head> getaggt											no	no	no	yes
+Dufour_MarieMarraine			Dufour, Hortense	1	female	FRA	La Marie-Marraine		1978	1978	1970s	Grasset		blanche		978-2-246-05879-3	tei	1													no	no	no	yes
+Dunyach_Voleurs	no		Dunyach, Jean-Claude	1	male	FRA	Voleurs de silence		1992	1992	1990s	Fleuve noir	Anticipation	scifi	populaire	2-265-04724-4	tei	1													yes	no	no	no
+Duplouy_Chateau			Duplouy, Fernand	1	male	FRA	Un château pour Carol		1979	1979	1970s	Tallandier		sentimental		(unknown)	tei	1													no	yes	no	no
+Duras_Amant	no	rv0215	Duras, Marguerite	1	female	FRA	L'Amant	1984		1984	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Duras_Yeux	no	rv0216	Duras, Marguerite	1	female	FRA	Les Yeux Bleus Cheveux Noirs	1986		1986	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Ebersohn_Nuit	yes		Ebersohn, Wessel	1	male	ZAF	La nuit divisée	1989	1993	1989	1980s	Rivages	Rivages/Noir	policier	populaire	2-86930-642-3	tei	1								Prouteau, Hélène	Divide the Night	1981			no	no	yes	no
+Echenoz_Equipee	no	rv0122	Echenoz, Jean	1	male	FRA	L'Équipée	1986		1986	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1		Teile und Kapitel											no	no	no	yes
+Echenoz_Je	no	rv0121	Echenoz, Jean	1	male	FRA	Je m'en vais	1999		1999	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Echenoz_Meridien	no	rv1234	Echenoz, Jean	1	male	FRA	Le Méridien de Greenwich	1979		1979	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Echenoz_Nous	no	rv0124	Echenoz, Jean	1	male	FRA	Nous Trois	1992		1992	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Ellis_Mais	yes		Ellis, Patricia	1	female		Mais qui est donc M. Chandler?		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	2-280-80456-5	tei	1								(unknown)	Sweet Protector	1989			no	yes	no	no
+Ellroy_Clandestin	yes		Ellroy, James	1	male	USA	Clandestin	1988	1990	1988	1980s	Rivages	Rivages/Noir	policier	populaire	2-86930-206-1	tei	1								Michalski, Freddy	Clandestine	1982			no	no	yes	no
+Ellroy_Part	yes		Ellroy, James	1	male	USA	Ma part d'ombre		1999	1999	1990s	Rivages	Rivages/Noir	policier	populaire	978-2-7436-0467-7	tei	1		Teile und Kapitel  Teile nicht erkannt						Michalski, Freddy	My Dark Places	1996			no	no	yes	no
+Endrebe_Pire	no		Endrèbe, Maurice Bernard	1	male	FRA	La pire des choses		1984	1984	1980s	Le Masque	Roman d'aventures	policier	populaire	2-7024-1574-1	tei	1		Kapitel nicht durchgehend erkannt											no	no	yes	no
+Estebe_Laureen	no		Estebe, Jean-Luc	1	male		Laureen		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03516-5	tei	1	no												no	yes	no	no
+Exbrayat_Pantoufles	no		Exbrayat, Charles	1	male	FRA	Mets tes pantoufles, Roméo		1983	1983	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1440-0	tei	1	no	Kapitel nicht erkannt											no	no	yes	no
+Facon_Compagnons	no		Facon, Roger	1	male	FRA	Les compagnons de la lune blême		1992	1992	1990s	Fleuve noir	Anticipation	scifi	populaire	2-265-04773-2	tei	1													yes	no	no	no
+Fair_Bousculez	yes		Fair, A. A. (Erle Stanley Gardner)	1	male	USA	Bousculez pas le magot		1984	1984	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1542-3	tei	1								Benoit, Jean	Spill the jackpot				no	no	yes	no
+Fajardie_Nuit	no		Fajardie, Frédéric H.	1	male	FRA	La nuit des Chats bottés		1993	1993	1990s	La Table Ronde	La petite vermillon	policier	populaire	2-7103-0552-6	tei	1		Kapitel nicht durchgehend erkannt											no	no	yes	no
+Farmer_Homme	yes		Farmer, Philip José	1	male	USA	L'homme qui trahit la vie	1973	1981	1973	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01051-4	tei	1								Garsault, Alain	Traitor to the Living				yes	no	no	no
+Farmer_Odyssee	yes		Farmer, Philip José	1	male	USA	L'odyssée verth		1982	1982	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01093-X	tei	1								Pugi, J.-P.	Green Odyssey	(unknown)			yes	no	no	no
+Fasquelle_Chant	no		Fasquelle, Solange	1	female	FRA	Le chant des hérissons		1997	1997	1990s	Grasset		blanche	blanche	2-246-51861-X	tei	1													no	no	no	yes
+Fast_Crime	yes		Fast, Julius	1	male	USA	Crime en blanc		1987	1987	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1783-3	tei	1								Averlant, Michel	The bright face of danger				no	no	yes	no
+Fayard_Chasseurs	no		Fayard, Colette	1	female		Les chasseurs au bord de la nuit		1989	1989	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30487-6	tei	1													yes	no	no	no
+Ferriere_Climat	no		Ferrière, Jean-Pierre	1	male		Un climat mortel		1983	1983	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1488-5	tei	1													no	no	yes	no
+Fischer_Medecin	yes		Fischer, Marie Louise	1	female	GER	Médecin des enfants		1973	1973	1970s	Presses de la Cité	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Forest_Disparue	yes		Forest, Regan	1	female	USA	La disparue de Rosewood		1989	1989	1980s	Harlequin	Duo Desir	sentimental	populaire	2-280-85277-2	tei	1								(unknown)	When tomorrow comes				no	yes	no	no
+Forsyth_Chacal	yes		Forsyth, Frederick	1	male	GBR	Chacal	1971	1974	1971	1970s	Gallimard	Folio	blanche		2-070-36569-7	tei	1													no	no	no	yes
+Fraser_Fille	yes		Fraser, Alison	1	female		Fille de star		1990	1990	1990s	Harlequin	Hors Série	sentimental	populaire	2-280-11051-2	tei	1								(unknown)	A Lifetime and Beyond				no	yes	no	no
+Fraser_Trefle	yes		Fraser, James	1	male	GBR	Le trèfle à cinq feuilles	1975	1975	1975	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0440-5	tei	1													no	no	yes	no
+Fremion_Reves	no		Frémion, Yves	1	male	FRA	Rêves de sable, châteaux de sang	1986	1986	1986	1980s	J'ai lu	Science-fiction	scifi	populaire	9782277220541	tei	1													yes	no	no	no
+Gamble_Roman	yes		Gamble, M.L.	1	female	USA	Le Roman de Sarah Winesong		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832380	tei	1		Titelblatt herausgerissen  Dépôt légal : novembre 1989						(unknown)	(unknown)				no	yes	no	no
+GarciaMarquez_Automne	yes		Marquez, Gabriel Garcia	1	male	COL	L'automne du patriarche	1975	1976	1975	1970s	Grasset	Le Livre de Poche	blanche		(unknown)	tei	1													no	no	no	yes
+GardnerEvans_Ete	yes		Gardner Evans, Patricia	1	female		L'été du loup		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832410	tei	1		Titelblatt herausgerissen  Dépôt légal : décembre 1989						(unknown)	(unknown)				no	yes	no	no
+Gary_Angoisse	no	rf	Gary, Romain	1	male	FRA	L'Angoisse du Roi Salomon	1979	2013	1979	1970s	Mercure de France		blanche	blanche		tei	1													no	no	no	yes
+Gary_Cerfs	no	rf	Gary, Romain	1	male	FRA	Cerfs-Volants	1980	2013	1980	1980s	Gallimard		blanche	blanche		tei	1													no	no	no	yes
+Gary_Chien	no	rf	Gary, Romain	1	male	FRA	Chien Blanc	1970	2013	1970	1970s	Gallimard		blanche	blanche		tei	1													no	no	no	yes
+Gary_GrosCalin	no		Gary, Romain	1	male	FRA	Gros-câlin	1973	1973	1973	1970s	Mercure de France	Folio	blanche		(unknown)	tei	1													no	no	no	yes
+Gary_Tetes	no	rf	Gary, Romain	1	male	FRA	Têtes de Stephanie	1974		1974	1970s	Gallimard		blanche	blanche		tei	1	yes												no	no	no	yes
+Gascar_Regne	no		Gascar, Pierre	1	male		Le règne végétal		1981	1981	1980s	Gallimard		blanche	blanche	(unknown)	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Genefort_Croises	no		Genefort, Laurent	1	male	FRA	Les croisés du vide		1998	1998	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06466-1	tei	1													yes	no	no	no
+Genefort_Engloutis	no		Genefort, Laurent	1	male	FRA	Les engloutis		1999	1999	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06698-2	tei	1													yes	no	no	no
+Genefort_Gueule	no		Genefort, Laurent	1	male	FRA	Dans la gueule du dragon		1998	1998	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06553-6	tei	1													yes	no	no	no
+Genefort_Sang	no		Genefort, Laurent	1	male	FRA	Le sang des immortels		1997	1997	1990s	Fleuve noir	SF space	scifi	populaire	2-265-06245-6	tei	1													yes	no	no	no
+Genevoix_Jour			Genevoix, Maurice	1	male	FRA	Un jour	1976	1976	1976	1970s	Plon	Rentrée Littéraire	blanche		978-2-259-30723-9	tei	1													no	no	no	yes
+Genevoix_Motte			Genevoix, Maurice	1	male	FRA	La motte rouge		1979	1979	1970s	France Loisirs	(unknown)	blanche		2-7242-0666-5	tei	1													no	no	no	yes
+Germain_Eclats	no		Germain, Sylvie	1	female		Éclats de sel		1996	1996	1990s	Gallimard	Collection Blanche	blanche	blanche	2-07-074260-8	tei	1													no	no	no	yes
+Germain_Immensites	no		Germain, Sylvie	1	female		Immensités		1993	1993	1990s	Gallimard	Collection Blanche	blanche	blanche	2-07-073643-1	tei	1													no	no	no	yes
+Gibson_Iboru	yes		Gibson, William	1	male	USA	Idoru	1998	1999	1998	1990s	J'ai lu	Science-fiction	scifi	populaire	2-290-05346-5	tei	1													yes	no	no	no
+Gibson_Neuromancien	yes		Gibson, William	1	male	USA	Neuromancien	1985	1988	1985	1980s	J'ai lu	Science-fiction	scifi	populaire	9782277223252	tei	1													yes	no	no	no
+Gide_Faux	no		Gide, André	1	male		Les faux-monnayeurs		1987	1987	1980s	Gallimard	Collection Folio	blanche	blanche	2-07-036879-3	tei	1	yes												no	no	no	yes
+Gilliland_Objectif	yes		Gilliland, Alexis A.	1	male	USA	Objectif: Rossinante	1985	1985	1985	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-21826-X	tei	1													yes	no	no	no
+Giroud_Deux	no		Giroud, Françoise	1	female		Deux et deux font trois		1998	1998	1990s	Grasset		blanche	blanche	2-246-56141-8	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Giuducelli_Station	no		Giuducelli, Christian	1	male		Station balnéaire		1986	1986	1980s	Gallimard	Collection Blanche	blanche	blanche	2-07-070780-6	tei	1		Kapitelüberschriften nicht erkannt											no	no	no	yes
+Gladstone_Kelly	yes		Gladstone, Eve	1	female		Kelly ou la vraie vie		1992	1992	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07381-1	tei	1	no												no	yes	no	no
+Glenn_Amour	yes		Glenn, Victoria	1	female		Un amour de jeunesse		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	978-2-28-080448-6	tei	1		Titelblatt fehlt  Dépôt légal : février 1990											no	yes	no	no
+Goldrick_Fugue	yes		Goldrick, Emma	1	female		Fugue dans les Caraïbes		1989	1989	1980s	Harlequin	Azur	sentimental	populaire	2-280-00636-7	tei	1	no	Kapitel nicht erkannt											no	yes	no	no
+Grafteaux_Meme	no		Grafteaux, Serge	1	male		Mémé Santerre	1975	1987	1975	1970s	Marabout	(unknown)	blanche		(unknown)	tei	1													no	no	no	yes
+Graham_Diable	yes		Graham, Elizabeth	1	female		Un diable d'ange gardien		1980	1980	1970s	Harlequin	(unknown)	sentimental		0-373-49101-8	tei	1													no	yes	no	no
+Gray_Role	yes		Gray, Kerrie	1	female		Le rôle de ma vie		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	978-2-28-080450-9	tei	1		Titelblatt fehlt  Dépôt légal : mars 1990											no	yes	no	no
+Guegan_Pere	no		Guégan, Gérard	1	male		Pére et Fils		1977	1977	1970s	Grasset		blanche	blanche	2-246-00515-9	tei	1													no	no	no	yes
+Guibert_Piano	no		Guibert, Michel	1	male		Piano nobile		1981	1981	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1211-4	tei	1	no	Kapitel nicht erkannt											no	no	yes	no
+Guillaume_MariaTeresa			Guillaume, Jean-Marie	1	female		Maria Teresa		1970	1970	1970s	Christian Bourgois	(unknown)	blanche		(unknown)	tei	1													no	no	no	yes
+GuillemonatBancal_Jamais	yes		Guillemonat, Jean / Bancal, Jean	2	male		Jamais à l'heure même pour mourir		1974	1974	1970s	Le Masque	Romans d'aventures	policier	populaire	(unknown)	tei	1								Tardieu, Charles	Death of a white witch				no	no	yes	no
+Guyon_Voyage	no		Guyon, Marc	1	male		Le voyage transparent		1994	1994	1990s	Gallimard		blanche	blanche	02-07-073975-9	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Halter_Mystere	no		Halter, Paul	1	male		Le Mystère de l'allée des Anges		1999	1999	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2963-7	tei	1		Kapitel nicht durchgehend erkannt											no	no	yes	no
+Hambly_Murs	yes		Hambly, Barbara	1	female	USA	Les murs des Ténèbres	1998	1998	1998	1990s	Le Masque	Abysses	scifi	populaire	9782702496251	tei	1													yes	no	no	no
+Hamilton_Oeil	yes		Hamilton, Lucy	1	female		Dans l'œil du typhon		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83243-7	tei	1		Kapitel nicht durchgehend erkannt						(unknown)	The Real Thing				no	yes	no	no
+Hansen_Mort	yes		Hansen, Joseph	1	male		Par qui la mort arrive		1986	1986	1980s	Rivages	Rivages/Noir	policier	populaire	2-86930-001-8	tei	1								Watkins, France-Marie	Trouble Maker	1975			no	no	yes	no
+Harper_Brumes	yes		Harper, Madeline	1	female		Les brumes de la rivière		1990	1990	1990s	Harlequin	Duo Desir	sentimental	populaire	2-280-85294-2	tei	1		Kapitel nicht erkannt						(unknown)	This Time Forever				no	yes	no	no
+Harper_Hors	yes		Harper, Madeline	1	female		Les hors-la-loi		1997	1997	1990s	Harlequin	Suspense	policier	populaire	2-280-16691-7	tei	1													no	no	yes	no
+Hawthorne_Carre	yes		Hawthorne, Alaina	1	female		Un carré de ciel bleu		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	2-280-80460-3	tei	1								Dermanian, Ch.	Out of the Blue				no	yes	no	no
+Heinlein_Age	yes		Heinlein, Robert A.	1	male	USA	L'âge des étoiles		1981	1981	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01062-X	tei	1								Bouboulis, Hélène	Time for the stars	1956			yes	no	no	no
+Heinlein_Route	yes		Heinlein, Robert A.	1	male	USA	Route de la gloire		1982	1982	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01194-4	tei	1								Haas, Dominique	Glory road	1963			yes	no	no	no
+Heinlein_Vagabond	yes		Heinlein, Robert	1	male	USA	Le vagabond de l'espace		1983	1983	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01226-6	tei	1								Deutsch, Michel	Have space suit, will travel	1958			yes	no	no	no
+Henneberg_Anges	no		Henneberg, Nathalie Ch.	1	female	FRA	Les anges de la colère		1978	1978	1970s	Le Masque	Science fiction	scifi	populaire	2-7024-0710-2	tei	1		Sammlung von Kurzgeschichten											yes	no	no	no
+HermaryVieille_Grand	no		Hermary-Vieille, Catherine	1	female		Le grand vizir de la nuit		1981	1981	1980s	Gallimard	Folio	blanche	blanche	2-07-037448-3	tei	1		letzte Seite fehlt											no	no	no	yes
+HermaryVieille_Marquise	no		Hermary-Vieille, Catherine	1	female		La Marquise des Ombres		1983	1983	1980s	Denoël	Folio	blanche	blanche	2-07-037655-9	tei	1													no	no	no	yes
+Hocquenghem_Fin	no		Hocquenghem, Guy	1	male	FRA	Fin de section		1975	1975	1970s	Christian Bourgois	(unknown)	blanche		2-267-00002-4	tei	1													no	no	no	yes
+Homeric_Loup	no		Homeric (Frédéric Dion)	1	male	FRA	Le loup mongol		1998	1998	1990s	Grasset		blanche	blanche	2-246-49351-X	tei	1													no	no	no	yes
+Hooper_Kelsey	yes		Hooper, Kay	1	female		Kelsey aux cent visages		1989	1989	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02729-2	tei	1	no	Kapitel nicht erkannt											no	yes	no	no
+Houssin_Argentine	no		Houssin, Joël	1	male		Argentine		1989	1989	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30486-8	tei	1													yes	no	no	no
+Houssin_Temps	no		Houssin, Joël	1	male	FRA	Le temps du twist		1990	1990	1990s	Denoël	Présence du Futur	scifi	populaire	2-207-30512-0	tei	1		nicht alle Kapitel erkannt											yes	no	no	no
+Howard_Montagne	yes		Howard, Linda	1	female		La montagne des Mackenzie		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832427	tei	1		Titelblatt herausgerissen  Dépôt légal : décembre 1989  Kapitel nicht durchgehend erkannt						(unknown)	(unknown)				no	yes	no	no
+Howe_Attirance	yes		Howe, Imogen	1	female		Attirance		1985	1985	1980s	Hachette	Haute tension / Spectres	sentimental	populaire	2-01-009582-0	tei	1		Kapitel nicht erkannt						Rouard, Philippe	Fatal Attraction				no	yes	no	no
+Hubert_Mort	no		Hubert, Jean-Pierre	1	male	FRA	Je suis la Mort		1998	1998	1990s	Fleuve noir	SF métal	scifi	populaire	2-265-06510-2	tei	1													yes	no	no	no
+Hutchinson_Hier	yes		Hutchinson, Bobby	1	male		Hier, la passion d'aimer		1990	1990	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07317-X	tei	1													no	yes	no	no
+Hyvrard_Mere	no		Hyvrard, Jeanne	1	female	FRA	Mère la mort		1976	1976	1970s	Les Éditions de Minuit	(unknown)	blanche		2-7073-0098-5	tei	1													no	no	no	yes
+Irish_Irish	yes		Irish, William	1	male	USA	Irish Trophy		1972	1972	1970s	Christian Bourgois	(unknown)	blanche		2-7242-0348-8	tei	1													no	no	no	yes
+JamesA_Safari	yes		James, Anna	1	female		Safari à Marakunda		1988	1988	1980s	Harlequin	(unknown)	sentimental	populaire	2-280-11040-7	tei	1	no												no	yes	no	no
+JamesB_Pic	yes		James, B. J.	1	male		Le pic des ombres		1985	1985	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-01794-7	tei	1													no	yes	no	no
+Janson_Or	yes		Janson, Marten	1		SWE	L'or du dragon	1976	1976	1976	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0575-4	tei	1													no	no	yes	no
+Jantz_Noces	yes		Jantz, Caroline	1	female		Les noces de Gwendoline	1988	1990	1988	1980s	Harlequin	Hors Série	sentimental	populaire	2-280-11053-9	tei	1								(unknown)	Separate Lives				no	yes	no	no
+Japp_Bostonienne	no		Japp, Andrea H.	1	female		La bostonienne		1991	1991	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2134-2	tei	1													no	no	yes	no
+Japp_Chante	no		Japp, Andrea H.	1	female		Elle qui chante quand la mort vient		1993	1993	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2323-X	tei	1													no	no	yes	no
+Japp_Femelle	no		Japp, Andrea H.	1	female		La femelle de l'espèce		1996	1996	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2513-8	tei	1													no	no	yes	no
+Japp_Petite	no		Japp, Andrea Philip	1	female		Le petite au chien jaune		1993	1993	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2418-X	tei	1													no	no	yes	no
+Japrisot_Course	no	rv1033	Japrisot, Sébastien	1	male	FRA	La Course du Lièvre à travers les champs	1972		1972	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Japrisot_Ete	no	rv1032	Japrisot, Sébastien	1	male	FRA	L'Été Meurtrier	1977		1977	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Japrisot_Passion	no		Japrisot, Sébastian	1	male		La passion des femmes		1986	1986	1980s	Gallimard	Folio	blanche	blanche	2-07-038034-3	tei	1		Bei manchen Seiten ist der Text am Rand leicht abgeschnitten  Kapitel nicht erkannt											no	no	no	yes
+Jardin_Bille	no		Jardin, Alexandre	1	male	FRA	Bille en tête		1994	1994	1990s	Gallimard	Folio	blanche	blanche	2-07-037919-1	tei	1													no	no	no	yes
+Jardin_Fanfan	no		Jardin, Alexandre	1	male	FRA	Fanfan		1996	1996	1990s	Gallimard	Folio	blanche	blanche	2-07-038513-2	tei	1		keine Kapitelüberschriften, deswegen Kapitel nicht erkannt											no	no	no	yes
+Jardin_Toupie	no		Jardin, Pascal	1	male	FRA	Toupie la rage		1972	1972	1970s	Grasset	(unknown)	blanche		(unknown)	tei	1													no	no	no	yes
+Jeury_Croix	no		Jeury, Michel	1	male		La croix et la lionne		1986	1986	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-22035-3	tei	1													yes	no	no	no
+Jeury_Mondes	no	rv1515	Jeury, Michel	1	male	FRA	Les Mondes furieux	1991	2013	1991	1990s	Fleuve Noir	Anticipation	scifi	populaire	978-2-820-51233-8	tei	1													yes	no	no	no
+Jeury_Sablier	no		Jeury, Michel	1	male	FRA	Le sablier vert		1977	1977	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01231-2	tei	1													yes	no	no	no
+Jeury_Soleil	no		Jeury, Michel	1	male	FRA	Soleil chaud poisson des profondeurs		1976	1976	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01112-X	tei	1		keine Kapitelüberschriften vorhanden											yes	no	no	no
+Jeury_Temps	no		Jeury, Michel	1	male	FRA	Le temps incertain		1973	1973	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-00666-5	tei	1		Kapitel nicht erkannt											yes	no	no	no
+Jeury_Vers	no		Jeury, Michel	1	male	FRA	Vers l'Âge d'or	1983	2016	1983	1980s	Fleuve Noir	Anticipation	scifi	populaire	9782820512284	tei	1													yes	no	no	no
+Johnston_Arbres	yes		Johnston, Velda	1	female		Les arbres de Josue		1973	1973	1970s	Le Masque	Romans d'aventures	policier	populaire	(unknown)	tei	1								Navarro, Marie-Louise	The Mourning Trees	1972			no	no	yes	no
+Josselin_Jours	no		Josselin, Jean-François	1	male	FRA	Quelques jours avec moi	1979	1979	1979	1970s	Grasset	(unknown)	blanche		978-2-246-80447-5	tei	1													no	no	no	yes
+Josselin_Star	no		Josselin, Jean-François	1	male	FRA	Quand j'étais star		1976	1976	1970s	Grasset	(unknown)	blanche		978-2-246-80448-2	tei	1													no	no	no	yes
+Jubert_Sinedeis			Jubert, Hervé	1	male	FRA	Sinedeis - Les adventures der Pierre Pèlerin -1	1999	1999	1999	1990s	J'ai lu	Science-fiction	scifi	populaire	2-290-05194-2	tei	1													yes	no	no	no
+Kalmes_Meilleur	yes		Kalmes, Susan	1	female		Le meilleur des deux mondes		1989	1989	1980s	Harlequin	Duo Romance	sentimental	populaire	2-280-80439-5	tei	1								(unknown)	The Sweetheart Waltz	1988			no	yes	no	no
+Karr_Etranges	yes		Karr, Lee	1	female		Étranges réminiscences		1994	1994	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16012-9	tei	1	no	sentimental/fantasy						Valentin, Julie	Stranger in the Mist	1993			no	yes	no	no
+Kassak_Peur	no		Kassak, Fred	1	male	FRA	Qui a peur d'Ed Garpo?		1995	1995	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2619-0	tei	1		Unterkapitel nicht erkannt											no	no	yes	no
+Keno_Temple	no		Keno, Robert	1	male		Le temple au clair de lune		1977	1977	1970s	Tallandier	4 couleurs	sentimental		(unknown)	tei	1													no	yes	no	no
+Khadra_Automne	no	rv0691	Khadra, Yasmina	1	male	DZA	Automne Chimeres	1998		1998	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Teile und Kapitel  einige <div> ohne <head> --> sind dies wirklich Kapitel?											no	no	yes	no
+Khadra_Double	no	rv0690	Khadra, Yasmina	1	male	DZA	Double Blanc	1998		1998	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Teile und Kapitel, jedoch fehlen die Kapitelbegrenzungen bis auf eines (1. in I)											no	no	yes	no
+Khadra_Morituri	no	rv0689	Khadra, Yasmina	1	male	DZA	Morituri	1997		1997	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Kapitel(überschriften) 2-5, 9 fehlen											no	no	yes	no
+Khadra_Revent	no	rv1273	Khadra, Yasmina	1	male	DZA	À quoi Rêvent les Loups	1999		1999	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1		entspricht rv0520  nicht jedes <head>-tag enthält eine Zahl (wie bei übrigen Kapiteln) -> sind dies wirklich Kapitelüberschriften?											no	no	no	yes
+Klein_Reve	no		Klein, Gérard	1	male		Le rêve des forêts		1987	1987	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-22164-3	tei	1													yes	no	no	no
+Klein_Seigneurs	no		Klein, Gérard	1	male		Les seigneurs de la guerre		1975	1975	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Klein_Voiliers	no		Klein, Gérard	1	male	FRA	Les voiliers du soleil	1987	1987	1987	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-22247	tei	1													yes	no	no	no
+Klotz_Aie	no		Klotz, Claude	1	male	FRA	Aïe Heil		1974	1974	1970s	Christian Bourgois	La Table Ronde	blanche		(unknown)	tei	1													no	no	no	yes
+Knight_Carnaval	yes		Knight, Alicia	1	female		La carnaval de l'angoisse		1998	1998	1990s	Harlequin	Suspense	policier	populaire	2-280-16723-9	tei	1													no	no	yes	no
+Koontz_Monstre	yes		Koontz, Dean	1	male		Le monstre et l'enfant		1978	1978	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-00648-7	tei	1								Perrin, Maud	Beastchild				yes	no	no	no
+Kotzwinkle_Fata	yes		Kotzwinkle, William	1	male		Fata Morgana		1988	1988	1980s	Rivages	Rivages/Mystère	policier	populaire	2-86930-096-4	tei	1								Gratias, Jean-Paul	Fata Morgana	1977			no	no	yes	no
+Labro_Ete	no		Labro, Philippe	1	male		Un été dans l'Ouest		1988	1988	1980s	Gallimard	Folio	blanche	blanche	2-07-038258-3	tei	1		Neben richtigen noch viele "falsche" Kapitel											no	no	no	yes
+Labro_Etudiant	no		Labro, Philippe	1	male		L'étudiant étranger		1986	1986	1980s	Gallimard	Folio	blanche	blanche	2-07-038043-2	tei	1		Neben richtigen noch viele "falsche" Kapitel											no	no	no	yes
+Labro_Petit	no		Labro, Philippe	1	male		Le petit garçon		1990	1990	1990s	Gallimard	Folio	blanche	blanche	2-07-038526-4	tei	1		Neben richtigen noch viele "falsche" Kapitel											no	no	no	yes
+Laine_Dentelliere	no		Lainé, Pascal	1	male		La dentellière		1974	1974	1970s	Gallimard	Folio	blanche	blanche	2-07-036726-6	tei	1													no	no	no	yes
+Lamb_Amere	yes		Lamb, Charlotte	1	female	GBR	Amère mémoire		1988	1988	1980s	Harlequin	Collection	sentimental	populaire	2-280-00542-5	tei	1		Kapitel nicht erkannt						(unknown)	Kiss of fire	1987			no	yes	no	no
+Lamb_Etrange	yes		Lamb, Charlotte	1	female	GBR	Une Étrange Langueur		1979	1979	1970s	Harlequin	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Lambert_Nuit	no		Lambert, Christophe	1	male	FRA	La nuit des mutants		1996	1996	1990s	Hachette	Science-fiction	scifi	populaire	2-01-209646-8	tei	1													yes	no	no	no
+Lang_Nous	yes		Lang, Maria	1	female	SWE	Nous étions treize en classe		1976	1976	1970s	Le Masque	Romans d'aventures	policier	populaire	2-7024-0573-8	tei	1								Roussel, Asa	Vi var tretton i klassen	1973			no	no	yes	no
+Laurent_Betises	no		Laurent, Jacques	1	male		Les Bêtises	1971	1971	1971	1970s	Grasset	(unknown)	blanche		978-2-246-13641-5	tei	1													no	no	no	yes
+Lawrence_Jeux	yes		Lawrence, Hilda	1	female		Jeux de mains		1994	1994	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2464-3	tei	1		2 Teile, keine Kapitel						Guilbot, Monique/Marquet, J.G.	Composition for four hands	1949			no	no	yes	no
+LeBussy_Equilibre	no		Le Bussy, Alain	1	male	BEL	Equilibre		1997	1997	1990s	Fleuve Noir	SF space	scifi	populaire	2-265-06244-8	tei	1													yes	no	no	no
+LeBussy_Jana	no		Le Bussy, Alain	1	male	BEL	Jana des couloirs		1996	1996	1990s	Fleuve Noir	Métal	scifi	populaire	2-265-05919-6	tei	1													yes	no	no	no
+LeBussy_Mendiant	no		Le Bussy, Alain	1	male	BEL	Le mendiant de Karnathok		1999	1999	1990s	Fleuve Noir	SF space	scifi	populaire	2-265-06555-2	tei	1													yes	no	no	no
+LeBussy_Nexus	no		Le Bussy, Alain	1	male	BEL	Nexus de feu		1998	1998	1990s	Fleuve Noir	Sf metal	scifi	populaire	2-265-06467-X	tei	1													yes	no	no	no
+LeBussy_Rork	no		Le Bussy, Alain	1	male	BEL	Rork des plaines		1995	1995	1990s	Fleuve Noir	Métal	scifi	populaire	2-265-05117-9	tei	1													yes	no	no	no
+LeBussy_Tremblemer	no		Le Bussy, Alain	1	male	BEL	Tremblemer		1993	1993	1990s	Fleuve Noir	Space, univers infinis	scifi	populaire	2-265-04893-3	tei	1													yes	no	no	no
+LeClezio_Chercheur	no	rv0700	LeClezio, Jean-Marie	1	male	FRA	Chercheur Or	1985		1985	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+LeClezio_Desert	no	rv0699	LeClezio, Jean-Marie	1	male	FRA	Desert	1980		1980	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1		keine Kapitel erkannt?											no	no	no	yes
+LeClezio_Onitsha	no		Le Clézio, Jean-Marie Gustave	1	male	FRA	Onitsha		1991	1991	1990s	Gallimard		blanche	blanche	2-07-072230-9	tei	1													no	no	no	yes
+LeMarrec_Abus	no		Le Marrec, Philippe	1	male		Tout abus sera puni		1993	1993	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2340-X	tei	1													no	no	yes	no
+LeMay_Createurs	no		Le May, Jean-Louis / Le May, Doris	2	mixed	FRA	Les createurs d'Ulnar		1972	1972	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+LeMay_Gardiens	no		Le May, Jean-Louis / Le May, Doris	2	mixed	FRA	Les gardiens de l'Almucantar		1974	1974	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+LeMay_Landes	no		leMay, Jean-Louis / leMay, Doris	2	mixed	FRA	Les landes d'Achernar	1971		1971	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Lebeau_Algebre	no		Lebeau, Guillaume	1	male	FRA	L'Algèbre du besoin		1999	1999	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2936-X	tei	1		Teile und Kapitel  nicht erkannt											no	no	yes	no
+Lee_Maison	yes		Lee, Rachel	1	female		La maison ensorcelée		1994	1994	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16015-3	tei	1	no	sentimental/fantasy											no	yes	no	no
+Lee_Terre	yes		Lee, Tanith	1	female	GBR	Terre de lierre	1988	1988	1988	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-22469-3	tei	1													yes	no	no	no
+Lee_Volkhavaar	yes		Lee, Tanith	1	female	GBR	Volkhavaar	1979		1979	1970s	Marabout	bibliothèque marabout / science-fiction	scifi	populaire		tei	1													yes	no	no	no
+Leigh_Etoile	yes		Leigh, Roberta	1	female	GBR	Une étoile au coeur		1979	1979	1970s	Harlequin	Harlequin	sentimental		(unknown)	tei	1													no	yes	no	no
+Leiris_Ruban	no		Leiris, Michel	1	male		Le ruban au cou d'Olympia		1994	1994	1990s	Gallimard	Collection l'imaginaire	blanche	blanche	2-07-071702-X	tei	1	no	Kapitel nicht erkannt, da durch <> getrennt											no	no	no	yes
+Leourier_Homme	no		Léourier, Christian	1	male	FRA	L'homme qui tua l'hiver		1986	1986	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-21946-0	tei	1													yes	no	no	no
+Leourier_Loi	no		Léourier, Christian	1	male	FRA	La loi du monde	1990	1990	1990	1990s	J'ai lu	Science-fiction	scifi	populaire	9-782277-227366	tei	1													yes	no	no	no
+Leourier_Masques	no		Léourier, Christian	1	male	FRA	Les masques du réel	1991	1991	1991	1990s	J'ai lu	Science-fiction	scifi	populaire	9-782277-229766	tei	1													yes	no	no	no
+Leourier_Mille	no		Léourier, Christian	1	male	FRA	Mille fois mille fleuves...	1987	1987	1987	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-22223-2	tei	1													yes	no	no	no
+Leourier_Racines	no		Léourier, Christian	1	male	FRA	Les racines de l'oubli		1988	1988	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-22405-7	tei	1		Kapitel nicht durchgehend erkannt											yes	no	no	no
+Leourier_Ti-Harnog	no		Léourier, Christian	1	male	FRA	Ti-Harnog		1984	1984	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-21722-0	tei	1													yes	no	no	no
+Levin_Bonheur	yes		Levin, Ira	1	male		Un bonheur insoutenable		1971	1971	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1		Teile und Kapitel  Kapitel nicht erkannt						Straschitz, Franck	This Perfect Day	1970			yes	no	no	no
+Levin_Femmes	yes		Levin, Ira	1	male		Les femmes de Stepford		1974	1974	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1								Prigent, Tanette / Gritz, Noman	The Steopford Wives	1972			yes	no	no	no
+Lichtenberg_Maison	yes		Lichtenberg, Jacqueline	1	female	USA	La maison de Zeor	1976	1976	1976	1970s	Marabout	bibliothèque marabout / science-fiction	scifi	populaire		tei	1	keine ISBN												yes	no	no	no
+Ligny_Ete	no		Ligny, Jean-Marc	1	male	FRA	Un été à Zedong		1991	1991	1990s	Presses de la Cité	Chroniques des nouveaux mondes	scifi	populaire	2-265-04547-0	tei	1		Titel und Metadaten beim OCR nicht richtig erkannt											yes	no	no	no
+Ligny_Furia	no		Ligny, Jean-Marc	1	male	FRA	Furia!		1982	1982	1980s	Denoël	Présence du Futur	scifi	populaire	2-207-30346-2	tei	1													yes	no	no	no
+Ligny_Rasalgethi	no		Ligny, Jean-Marc	1	male	FRA	Rasalgethi		1990	1990	1990s	Fleuve Noir	Anticipation	scifi	populaire	2-265-04400-5	tei	1													yes	no	no	no
+Linhart_Etabli	no		Linhart, Robert	1	male	FRA	L'Établi	1978	1981	1978	1970s	Les Éditions de Minuit	(unknown)	blanche		978-2-7073-0329-5	tei	1													no	no	no	yes
+Lloyd_Maitre	yes		Lloyd, Frances	1	female		Le maître de Craigmoor House		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	2-280-80457-3	tei	1								(unknown)	Lord of the Glen				no	yes	no	no
+Long_Aucun	yes		Long, Manning	1	male		Aucun délai		1990	1990	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2021-4	tei	1								Grégoire, Catherine	Short delay				no	no	yes	no
+Lovesey_Course	yes		Lovesey, Peter	1	male		La course ou la vie		1985	1985	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1646-2	tei	1													no	no	yes	no
+Lovesey_Round	yes		Lovesey, Peter	1	male		Le vingt-sixième round		1985	1985	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1633-0	tei	1								Poulain, Christiane	The detective wore silk drawers				no	no	yes	no
+Lowell_Espionne	yes		Lowell, Elizabeth	1	female		L'espionne du mandarin		1989	1989	1980s	Harlequin	Grands Romans	sentimental	populaire	2-280-11030-X	tei	1								Fournier, Daniel	Tell me no lies				no	yes	no	no
+Lutry_DonJuan	no		Lutry, Jean de	1	female	FRA	Les Don Juan d'Aspreval		1978	1978	1970s	Tallandier		sentimental			tei	1		(Pseudonym von Jeanine Delpech)											no	yes	no	no
+Macomber_Peur	yes		Macomber, Debbie	1	female		Qui a peur de J.D. Norris?		1989	1989	1980s	Harlequin	Duo Romance	sentimental	populaire	2-280-80427-1	tei	1	no												no	yes	no	no
+Magnan_Commissaire	no	rv1277	Magnan, Pierre	1	male	FRA	Le Commissaire dans la truffière	1978		1978	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		keine <head>-tags vorhanden											no	no	yes	no
+Magnan_Sang	no	rv1280	Magnan, Pierre	1	male	FRA	Le Sang des Atrides	1977		1977	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Magner_Grande	yes		Magner, Lee	1	female		La grande chasse de Foxgrove		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832458	tei	1		Titelblatt herausgerissen  Dépôt légal : janvier 1990  Kapitel nicht durchgehend erkannt						(unknown)	(unknown)				no	yes	no	no
+Mai_Bel			Mai, Denyse	1	female		Le bel inconstant		1981	1981	1970s	Tallandier		sentimental		2-235-01150-0	tei	1													no	yes	no	no
+Maillet_Pelagie	no		Maillet, Antonine	1	female	CAN	Pélagie-la-Charrette		1979	1979	1970s	Grasset	Le Livre de Poche	blanche		2-253-02666-2	tei	1													no	no	no	yes
+Malet_Abattoir	no	rv1057	Malet, Léo	1	male	FRA	Abattoir ensoleillé	1972		1972	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Malet_Burma	no	rv1060	Malet, Léo	1	male	FRA	Nestor Burma Court Poupée	1971		1971	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Teile und Kapitel											no	no	yes	no
+Manchette_Affaire	no	rv1067	Manchette, Jean-Patrick	1	male	FRA	L'Affaire N'Gustro	1971		1971	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Dingos	no	rv1072	Manchette, Jean-Patrick	1	male	FRA	Ô Dingos, Ô Châteaux !	1972		1972	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Fatale	no	rv1068	Manchette, Jean-Patrick	1	male	FRA	Fatale	1977		1977	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Iris	no	rv1069	Manchette, Jean-Patrick	1	male	FRA	Iris. Kulturkampf	1997		1997	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Teile und Kapitel											no	no	yes	no
+Manchette_Morgue	no	rv1070	Manchette, Jean-Patrick	1	male	FRA	Morgue Pleine	1973		1973	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Nada	no	rv1071	Manchette, Jean-Patrick	1	male	FRA	Nada	1972		1972	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Petit	no	rv1073	Manchette, Jean-Patrick	1	male	FRA	Le Petit Bleu de la côté ouest	1976		1976	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Princesse	no	rv1075	Manchette, Jean-Patrick	1	male	FRA	La Princesse de Sang	1996		1996	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manchette_Qued	no	rv1076	Manchette, Jean-Patrick	1	male	FRA	Que d'Os !	1976		1976	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Manotti_Sombre	no	rv0522	Manotti, Dominique	1	female	FRA	Sombre Sentier	1995		1995	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1		Teile und Kapitel											no	no	no	yes
+Marceau_Oiseau	no		Marceau, Félicien	1	male		Un oiseau dans le ciel		1989	1989	1980s	Gallimard	Folio	blanche	blanche	2-07-038389-X	tei	1													no	no	no	yes
+Marceau_Passions	no		Marceau, Félicien	1	male		Les passions partagées		1987	1987	1980s	Gallimard		blanche	blanche	02-07-070902-7	tei	1													no	no	no	yes
+Marshall_Victoire	yes		Marshall, Bevlyn	1	female		Victoire Victoria		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83226-7	tei	1		Kapitel nicht durchgehend erkannt						Neddam, Martine	The Pride of his Life				no	yes	no	no
+Martin_Acteurs	yes		Martin, Hansjörg	1	male	DEU	Les acteurs n'aiment pas mourir	1972	1972	1972	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	(unknown)	tei	1		keine ISBN											no	no	yes	no
+MartinigolGrousset_Enfant	no		Martinigol, Danielle / Grousset, Alain	2	male	FRA	L'Enfant-mémoire		1996	1996	1990s	Hachette	Vertige science-fiction	scifi	populaire	2-01-209594-1	tei	1		Probleme beim OCR											yes	no	no	no
+Massip_Belle	no		Massip, Renée	1	female		Belle à jamais...		1979	1979	1970s	Gallimard		blanche	blanche	(unknown)	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Mather_Loin			Mather, Anne	1	female	GBR	Au Loin, La Ville		1978	1978	1970s	Harlequin	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Maurice_Fumees			Maurice, Pierre	1	male		Fumées bleues d'automne		1970	1970	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+McElhaney_Rendez-vous	yes		McElhaney, Carole	1	female		Rendez-vous sous les étoiles		1989	1989	1980s	Harlequin	Duo Romance	sentimental	populaire	2-280-80438-7	tei	1								(unknown)	A Suce of Heaven				no	yes	no	no
+Mequillet_Muriel	no		Méquillet, Lise	1	female		Muriel		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03456-8	tei	1	no												no	yes	no	no
+Mercoeur_Baiser			Mercoeur, Lisa	1	female		Le baiser interrompu		1978	1978	1970s	Tallandier	(unknown)	sentimental			tei	1													no	yes	no	no
+Merle_Fortune	no		Merle, Robert	1	male	FRA	Fortune de France		1977	1977	1970s	Plon	Le Livre de Poche	blanche		(unknown)	tei	1													no	no	no	yes
+Messagier_Sanctifie	no		Messagier, Matthieu	1	male	FRA	Sanctifié		1974	1974	1970s	Christian Bourgois	(unknown)	blanche		(unknown)	tei	1													no	no	no	yes
+Michener_Colorado	yes		Michener, James	1	male	USA	Colorado saga	1974		1974	1970s	LGF	Le Livre de Poche	blanche		(unknown)	tei	1													no	no	no	yes
+Millar_Territoire	yes		Millar, Margaret	1	female		Le territoire des monstres		1972	1972	1970s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1838-4	tei	1													no	no	yes	no
+Miller_Fantomes	yes		Miller, Linda Lael	1	female		Les fantômes du pays d'Oz		1990	1990	1990s	Harlequin	Rouge Passion	sentimental	populaire	2-280-12304-5	tei	1	no												no	yes	no	no
+Miller_Virage	yes		Miller, Henry	1	male	USA	Virage à 80		1978	1978	1970s	LGF	Le Livre de Poche	blanche		978-2-2530-1889-6	tei	1													no	no	no	yes
+Miollis_MaryCottage			Miollis, Marie-Antoinette de	1	female		Mary-Cottage		1970	1970	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Modiano_Boulevards	no	rv0233	Modiano, Patrick	1	male	FRA	Les Boulevards de Ceinture	1972		1972	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Cirque	no	rv0237	Modiano, Patrick	1	male	FRA	Un Cirque Passe	1992		1992	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Dimanches	no	rv0229	Modiano, Patrick	1	male	FRA	Dimanches d'Août	1986		1986	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Dora	no	rv0230	Modiano, Patrick	1	male	FRA	Dora Bruder	1997		1997	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Fleurs	no	rv0232	Modiano, Patrick	1	male	FRA	Fleurs de Ruine	1991		1991	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Inconnues	no	rv0228	Modiano, Patrick	1	male	FRA	Des Inconnues	1999		1999	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Jeunesse	no	rv0238	Modiano, Patrick	1	male	FRA	Une Jeunesse	1981		1981	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Loin	no	rv0231	Modiano, Patrick	1	male	FRA	Du Plus Loin de l'Oubli	1996		1996	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Quartier	no	rv0234	Modiano, Patrick	1	male	FRA	Quartier Perdu	1984		1984	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Remise	no	rv0235	Modiano, Patrick	1	male	FRA	Remise de Peine	1988		1988	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Vestiaire	no	rv0239	Modiano, Patrick	1	male	FRA	Vestiaire de l'enfance	1989		1989	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Villa	no	rv0240	Modiano, Patrick	1	male	FRA	Villa Triste	1975		1975	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Modiano_Voyage	no	rv0241	Modiano, Patrick	1	male	FRA	Voyage de Noces	1990		1990	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Moore_Jirel	yes		Moore, Catherine L.	1	female	USA	Jirel de Joiry		1974	1974	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1								Gallet, Georges H.	Jirel of Joiry				yes	no	no	no
+Morressy_Fils	yes		Morressy, John	1	male	USA	Le fils des étoiles	1974	1974	1974	1970s	Marabout	bibliothèque marabout	scifi	populaire	(unknown)	tei	1								Halleux, Gérard	Starbrat	1972			yes	no	no	no
+Morrison_Oeil	yes		Morrison, Tony	1	female	USA	L'Œil le plus bleu	1970	1994	1970	1970s	Christian Bourgois	(unknown)	blanche		9782267012439	tei	1													no	no	no	yes
+Morrow_Notre	yes		Morrow, James	1	male	USA	Notre mère qui êtes aux cieux	1991	1991	1991	1990s	J'ai lu	Science-fiction	scifi	populaire	2-277-23131-2	tei	1													yes	no	no	no
+Mousset_Jane	no		Mousset, Christiane	1	female		Jane		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03565-3	tei	1	no												no	yes	no	no
+Moyes_Qui	yes		Moyes, Patricia	1	female		Qui a peur de Simon Warwick?		1986	1986	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1733-7	tei	1		Kapitelzählung ist falsch: XVI folgt auf XV						André, Jean/Rey, Claudine	Who is Simon Warwick?	1978			no	no	yes	no
+Murcie_Folie	no		Murcie, Georges	1	male		La folie du capitaine Sangor		1975	1975	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1		Seiten 42-43, 146-147 fehlen											yes	no	no	no
+Murcie_Objectif	no		Murcie, Georges	1	male		Objectif: La terre!		1972	1972	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Murcie_Tunnelumiere	no		Murcie, Georges	1	male		Le tunnelumiere		1972	1972	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Narcejac_Gout	no		Narcejac, Thomas	1	male		Le goût des larmes		1985	1985	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1590-3	tei	1	no												no	no	yes	no
+Narcejac_Mauvais	no		Narcejac, Thomas	1	male		Le mauvais cheval		1988	1988	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1849-X	tei	1	no												no	no	yes	no
+Nathan_Saraka	no		Nathan, Tobie	1	male		Saraka bô (Sortir les offrandes)	1993	1996	1993	1990s	Rivages	Rivages/Noir	policier	populaire	2-86930-783-7	tei	1													no	no	yes	no
+Nezelof_Flammes	no		Nezelof, Pierre	1	male	FRA	Flammes sur la lande	1970	1970	1970	1970s	Fleuve Noir		sentimental	populaire	(unknown)	tei	1		keine ISBN											no	yes	no	no
+Noel_Argent			Noël, Denise	1	female		L'argent du diable		1970	1970	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Nothomb_Catilinaires	no	rv0798	Nothomb, Amélie	1	female	BEL	Les Catilinaires	1995	1995	1995	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1				autodiegetic									no	no	no	yes
+Nothomb_Hygiene	no	rv0802	Nothomb, Amélie	1	female	BEL	Hygiène de l'Assassin	1992		1992	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Nothomb_Peplum	no	rv0795	Nothomb, Amélie	1	female	BEL	Peplum	1996		1996	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Nothomb_Sabotage	no	rv0799	Nothomb, Amélie	1	female	BEL	Le Sabotage Amoureux	1993		1993	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1		immer wieder mehrere aufeinanderfolgene <p/>-tags  sind dies die Kapiteltrennungen?											no	no	no	yes
+Oldfield_Semer	yes		Oldfield, Elizabeth	1	female		Comment semer son ange gardien...		1988	1988	1980s	Harlequin	Azur	sentimental	populaire	2-280-00621-9	tei	1	no							(unknown)	Bodycheck				no	yes	no	no
+Ouravel_Sophie	no		Ouravel, Boris	1	male		Sophie		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03704-4	tei	1	no												no	yes	no	no
+Padgett_Enfant	yes		Padgett, Abigail	1	female		L'Enfant du silence		1995	1995	1990s	Rivages	Rivages/Noir	policier	populaire	2-86930-887-6	tei	1								Bondil, Danièle / Bondil, Pierre	Child of Silence	1993			no	no	yes	no
+Pagel_Cineterre	no		Pagel, Michel	1	male	FRA	Cinéterre		1998	1998	1990s	Fleuve Noir	Sf metal	scifi	populaire	2-265-06518-8	tei	1		Name des Autors nicht erkannt											yes	no	no	no
+Pappano_Adriana	yes		Pappano, Marylin	1	female		Adriana ou le bel été		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83261-5	tei	1								(unknown)	Something of heaven				no	yes	no	no
+Paris_Dairen	no		Paris, Alain	1	male	FRA	Dairen		1988	1988	1980s	J'ai lu	Science-fiction	scifi	populaire	9-782277-224846	tei	1													yes	no	no	no
+Peake_Homme	yes		Peake, Lilian	1	female	GBR	L'homme de granit		1975	1975	1970s	Harlequin	Serie Club	sentimental		(unknown)	tei	1													no	yes	no	no
+Pecherot_Tiurai	no	rv0551	Pécherot, Patrick	1	male	FRA	Tiurai	1996		1996	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Pelot_Barreaux	no		Pelot, Pierre	1	male	FRA	Les barreaux de l'Eden		1977	1977	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Pelot_Bonheur	no	rv0807	Pelot, Pierre	1	male	FRA	Le Bonheur des Sardines	1993		1993	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Pelot_Delirium	no		Pelot, Pierre	1	male	FRA	Delirium Circus		1977	1977	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-11773-0	tei	1		Kapitel nicht erkannt											yes	no	no	no
+Pelot_Foetus	no		Pelot, Pierre	1	male	FRA	Foetus-party		1977	1977	1970s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1										(unknown)			yes	no	no	no
+Pelot_Plomb	no	rv0805	Pelot, Pierre	1	male	FRA	Du Plomb dans la Neige	1974		1974	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Pelot_Sourire	no		Pelot, Pierre	1	male	FRA	Le sourire des crabes		1977	1977	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-00348-8	tei	1		Kapitel nicht durchgehend erkannt											yes	no	no	no
+Pender_Mortelle	yes		Pender, Laura	1	female		Mortelle ressemblance		1997	1997	1990s	Harlequin	Suspense	policier	populaire	2-280-16690-0	tei	1								Duchet-Filhol, Bénédicte	Garden of deceit				no	no	yes	no
+PennWarren_Endroit	yes		Penn Warren, Robert	1	male	USA	Un endroit où aller: roman	1977	1977	1977	1970s	Actes Sud	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Pennac_Chretiens	no	rv0674	Pennac, Daniel	1	male	FRA	Malaussene 5 Chretiens Maures	1996		1996	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Pennac_Fee	no	rv0673	Pennac, Daniel	1	male	FRA	Malaussene 2 Fee Carabine	1987		1987	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Teile und Kapitel											no	no	yes	no
+Pennac_Petite	no		Pennac, Daniel	1	male	FRA	La petite marchande de prose (Malaussène 3)	1989	1990	1989	1980s	Gallimard	Folio	blanche	blanche	2-07-071822-0	tei	1													no	no	no	yes
+Perec_Cabinet	no	rv0694	Perec, Georges	1	male	FRA	Cabinet Amateur	1979		1979	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Perrein_Fourmi	no		Perrein, Michèle	1	female		Comme une fourmi cavalière		1980	1980	1980s	Grasset		blanche	blanche	2-246-25101-X	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Peters_Amulette	yes		Peters, Sue	1	female		L'amulette de jade		1982	1982	1980s	Harlequin	Collection	sentimental	populaire	2-280-00113-6	tei	1		Kapitel nicht erkannt						(unknown)	Jade				no	yes	no	no
+Picard_Solo	no		Picard, Gilbert	1	male	FRA	Solo pour toumba	1975	1975	1975	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0406-5	tei	1													no	no	yes	no
+Pickart_Secrets	yes		Pickart, Joan Elliot	1	female		Secrets d'automne		1986	1986	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02072-7	tei	1								Ithé, Paule	Secrets of autumn				no	yes	no	no
+Pierlain_Divine	no		Pierlain, Nell	1	female	FRA	La divine		1978	1978	1970s	Tallandier	Arc-en-Ciel	sentimental			tei	1													no	yes	no	no
+Pierlain_Echarpe	no		Pierlain, Nell	1	female	FRA	L'écharpe mauve		1976	1976	1970s	Tallandier	Arc-en-Ciel	sentimental		(unknown)	tei	1													no	yes	no	no
+Pierlain_Fascinante	no		Pierlain, Nell	1	female	FRA	Fascinante Hilda		1976	1976	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Pierlain_Homme	no		Pierlain, Nell	1	female	FRA	L'homme en gris		1971	1971	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Poslaniec_Fous	no		Poslaniec, Christian	1	male		Les fous de Scarron		1990	1990	1990s	Le Masque	Roman d'aventures	policier	populaire	2-7024-2062-1	tei	1		Kapitel nicht durchgehend erkannt											no	no	yes	no
+Pouy_Belle	no	rv1079	Pouy, Jean-Bernard	1	male	FRA	La Belle de Fontenay	1992		1992	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		einige <gap/>-tags enthalten  diese zu <p/> geändert, da gap in Schema nicht erlaubt											no	no	yes	no
+Pouy_Sec	no	rv1078	Pouy, Jean-Bernard	1	male	FRA	À Sec ! (Spinoza encule Hegel, le retour)	1998		1998	1990s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Pozzessere_Cavalier	yes		Pozzessere, Heather Graham	1	female	USA	Le cavalier de l'orage		1995	1995	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16051-X	tei	1	no	sentimental/fantasy						Reignier, Pierre-Francois	The last cavalier				no	yes	no	no
+Pozzessere_Homme	yes		Pozzessere, Heather Graham	1	female	USA	L'homme aux yeux de glace		1991	1991	1990s	Harlequin	Duo Desir	sentimental	populaire	2-280-85322-1	tei	1		Kapitel nicht durchgehend erkannt						Novet, Katia	A Perilous Eden				no	yes	no	no
+Pozzessere_Riviere	yes		Pozzessere, Heather Graham	1	female	USA	Comme une rivière		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83227-5	tei	1		Kapitel nicht durchgehend erkannt						(unknown)	Angel of Mercy				no	yes	no	no
+Queffelec_Noces	no		Queffélec, Yann	1	male		Les noces barbares		1985	1985	1980s	Gallimard	Folio	blanche	blanche	2-07-037856-X	tei	1		Teile und Kapitel											no	no	no	yes
+Quentin_Meurtre	yes		Quentin, Patrick	1	male		Meurtre à l'université		1984	1984	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1518-0	tei	1	no	Kapitel nicht durchgehend erkannt						Poulain, Christiane	Murder at the varsity				no	no	yes	no
+Quentin_Mort	yes		Quentin, Patrick	1	male		La mort fait l'appel		1989	1989	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1874-0	tei	1	no	Kapitel nicht durchgehend erkannt						Canavaggia, Marie	Death goes to school				no	no	yes	no
+RadfordEM_Eau	yes		Radford, Edwin / Radford, Mona Augusta	1	mixed		L'eau morte		1972	1972	1970s	Le Masque	Romans d'aventures	policier	populaire	(unknown)	tei	1								Daubert, Firmin	Dead Water	1971			no	no	yes	no
+Rae_Skinner	yes		Rae, Hugh C.	1	male		Skinner	1999	2001	1999	1990s	Rivages	Rivages/Noir	policier	populaire	2-7436-0836-6	tei	1								Chrestien, Michel	Skinner	1965			no	no	yes	no
+Rambaud_Bataille	no		Rambaud, Patrick	1	male		La bataille		1997	1997	1990s	Grasset		blanche	blanche	2-246-52721-X	tei	1													no	no	no	yes
+Ranne_Chute			Ranne, G. Elton	1	male		Chute libre		1997	1997	1990s	Fleuve Noir	SF polar	scifi	populaire	2-265-06319-3	tei	1													yes	no	no	no
+Rayjean_Grand	no		Rayjean, Max-André	1	male	FRA	Le grand retour		1974	1974	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1		Seiten 58, 59 fehlen											yes	no	no	no
+Rayjean_Revolte	no		Rayjean, Max-André	1	male	FRA	La révolte de Gerkanol		1973	1973	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1	yes		Jé	heterodiegetic	space	space	future						yes	no	no	no
+Rayjean_Statues	no		Rayjean, Max-André	1	male	FRA	Les statues vivantes		1972	1972	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Renard_Nuit	no		Renard, Christine	1	female	FRA	La nuit des lumineux	1980	1980	1980	1980s	Fernand Nathan	SF	scifi	populaire	2092709046	tei	1													yes	no	no	no
+Rendell_Fille	yes		Rendell, Ruth	1	female		Une fille dans un caveau		1986	1986	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1703-5	tei	1								Fillion, Jane	Murder being once done				no	no	yes	no
+Rendell_Petit	yes		Rendell, Ruth	1	female		Le petit été de la Saint-Luke		1980	1980	1980s	Le Masque	Romans d'aventures	policier	populaire	(unknown)	tei	1								Navarro, Marie-Louise	No more dying then	1978			no	no	yes	no
+Ressi_Memoire	no		Michèle, Ressi	1	female	FRA	La memoire des corps	1990	1990	1990	1990s	Presses de la Cité		policier	populaire	9-782285-004386	tei	1													no	no	yes	no
+Ricardo_Comtesse	no		Ricardo	1			Comtesse Anne	1973	1973	1973	1970s	Van Loo	Collection Amour	sentimental	populaire		tei	1													no	yes	no	no
+Rice_Malone	yes		Rice, Craig	1	male		Malone quitte Chicago		1988	1988	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1821-X	tei	1								Averlant, Michel	Trial by fury				no	no	yes	no
+Richardson_Nuit	yes		Richardson, Susan	1	female		La nuit des cajuns		1988	1988	1980s	Presses de la Cité	Collection Passion	sentimental	populaire	2-258-02730-6	tei	1									Cajun nights				no	yes	no	no
+RobbeGrillet_NN	no	rv0193	Robbe-Grillet, Alain	1	male	FRA	Djinn, Un trou rouge entre les pavés disjoints	1981		1981	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+RobbeGrillet_Souvenirs	no	rv0198	Robbe-Grillet, Alain	1	male	FRA	Souvenirs du triangle d'or	1978		1978	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+RobertsD_Scorpion	yes		Roberts, Doreen	1	female		Le scorpion de jade		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83223-2	tei	1		Kapitel nicht durchgehend erkannt						(unknown)	Forbidden Jade				no	yes	no	no
+Robinson_Planete	yes		Robinson, Kim Stanley	1	male	USA	La planète sur la table	1988	1988	1988	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-22389-1	tei	1													yes	no	no	no
+Rodgers_Assassin	yes		Rodgers, M.J.	1	female		L'assassin sans visage		1996	1996	1990s	Harlequin	Suspense	policier	populaire	2-280-16670-4	tei	1									Dead ringer				no	no	yes	no
+Rolin_Cyrille	no		Rolin, Jean	1	male		Cyrille et méthode		1994	1994	1990s	Gallimard	Collection Blanche	blanche	blanche	2-07-073824-8	tei	1													no	no	no	yes
+Rolin_Deux	no		Rolin, Dominique	1	female		Deux femmes un soir		1992	1992	1990s	Gallimard	Folio	blanche	blanche	2-07-039275-9	tei	1		Kapitel nicht durchgehend erkannt											no	no	no	yes
+Rolin_Zones	no		Rolin, Jean	1	male		Zones		1995	1995	1990s	Gallimard	Collection Blanche	blanche	blanche	2-07-074128-1	tei	1		Kapitel nicht erkannt											no	no	no	yes
+Rosemoor_Pari	yes		Rosemoor, Patricia	1	female		Pari sur la vie		1996	1996	1990s	Harlequin	Suspense	policier	populaire	2-280-16675-5	tei	1									Dead heat				no	no	yes	no
+RossJ_Morte	yes		Ross, Jonathan	1	male		Une petite morte bien rangée		1984	1984	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1581-4	tei	1								Satori, Jacques	A rattling of old bones				no	no	yes	no
+Roueche_Crime	yes		Roueché, Berton	1	male		Le crime ne fait pas le bonheur		1983	1983	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1458-3	tei	1								Eichelberger, Michael	Fago				no	no	yes	no
+Ryan_Ange	yes		Ryan, Nan	1	female		Un ange au soleil	1987	1990	1987	1980s	Harlequin	Grands Romans	sentimental	populaire	9-78228-0110365	tei	1		Titelblatt rausgerissen  Dépôt légal: Januar 1990						(unknown)	(unknown)				no	yes	no	no
+Ryan_Etrange	yes		Ryan, Jenna	1	female		Étrange rôle pour Sara		1988	1988	1980s	Harlequin	Collection Horizon	sentimental	populaire	2-280-01688-5	tei	1									Suspende animation				no	yes	no	no
+Ryck_Conseil	no	rv0661	Ryck, Francis	1	male	FRA	Conseil Famille	1983		1983	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Ryck_Incroyant	no	rv0665	Ryck, Francis	1	male	FRA	Incroyant	1970		1970	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Ryck_Intentions	no	rv0666	Ryck, Francis	1	male	FRA	Nos Intentions sont Pacifiques	1977		1977	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Ryck_Piege	no	rv0667	Ryck, Francis	1	male	FRA	Piege	1981		1981	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Ryck_Secret	no		Ryck, Francis	1	male	FRA	Le secret		1973	1973	1970s	Gallimard	Série noire	policier	populaire	(unknown)	tei	1		Kapitel nicht durchgehend erkannt											no	no	yes	no
+Ryck_Voulez	no	rv0668	Ryck, Francis	1	male	FRA	Voulez Vous Mourir	1973		1973	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+SaintBray_Coeurs			Saint-Bray, Marie Madeleine Chantal	1	female	FRA	Cœurs brûlés		1974	1974	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+SaintBray_Portes			Saint-Bray, Marie Madeleine Chantal	1	female	FRA	Les Portes De L'Amour		1979	1979	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Sarban_Son	yes		Sarban	1	male	GBR	Le Son du cor		1978	1978	1970s		Science-Fiction	scifi	populaire	2-253-02042-7	tei	1													yes	no	no	no
+Sariola_Qui	yes		Sariola, Mauri	1	male	FIN	Qui a tué le commissaire Wolf?	1975	1975	1975	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0437-5	tei	1													no	no	yes	no
+Sarraute_Portrait	no		Sarraute, Nathalie	1	female		Portrait d'un inconnu		1995	1995	1990s	Gallimard	Collection Folio	blanche	blanche	2-07-036942-0	tei	1	no	Kapitel nicht erkannt, da keine Kapitelzahlen im Text  direkte Rede nicht erkannt											no	no	no	yes
+Sayers_Arret	yes		Sayers, Dorothy L.	1	female		Arrêt du coeur		1984	1984	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1566-0	tei	1									Unnatural death				no	no	yes	no
+Schuler_Trophees	yes		Schuler, Candace	1	female		Trophées pour un guerrier		1989	1989	1980s	Harlequin	Duo Desir	sentimental	populaire	2-280-85281-0	tei	1								(unknown)	Soul mates				no	yes	no	no
+Schulze_Femme	yes		Schulze, Dallas	1	female		Une femme en villégiature		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83228-3	tei	1		Kapitel nicht durchgehend erkannt						Canal, Mary	Donovan's Promise				no	yes	no	no
+Secary_Angoissant	no		Sécary, Jean de	1	female	FRA	L'angoissant soupçon		1976	1976	1970s	Tallandier	Arc-en-Ciel	sentimental		(unknown)	tei	1													no	yes	no	no
+Secary_Sortilege	no		Sécary, Jean de	1	female	FRA	Le sortilège camarguais		1970	1970	1970s	Tallandier	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+SechanMaslowiski_Vous	no		Séchan, Olivier / Maslowski, Igor	2	male		Vous qui n'avez jamais été tués		1985	1985	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1636-5	tei	1													no	no	yes	no
+Seger_Souvenir	yes		Seger, Maura	1	female		Le souvenir de nous		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832441	tei	1		Titelblatt herausgerissen  Dépôt légal : janvier 1990  Kapitel nicht durchgehend erkannt						(unknown)	(unknown)				no	yes	no	no
+Seigneur_Lapins	no		Seigneur, Olivier	1	male		Des lapins et des hommes		1994	1994	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2479-1	tei	1		Kapitel nicht durchgehend erkannt											no	no	yes	no
+Shayne_Amants	yes		Shayne, Maggie	1	female		Les amants de la nuit		1994	1994	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16023-4	tei	1	no	sentimental/fantasy							Twilight memories				no	yes	no	no
+Shayne_Voyageur	yes		Shayne, Maggie	1	female		Le voyageur du temps		1996	1996	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16068-4	tei	1	no	sentimental/fantasy							Miranda's viking				no	yes	no	no
+Silverberg_Chateau2	yes		Silverberg, Robert	1	male	USA	La château de Lord Valentin 2	1980	1980	1980	1980s	J'ai lu	Science-fiction	scifi	populaire	2-277-21906-1	tei	1													yes	no	no	no
+Silverberg_Guetteurs	yes		Silverberg, Robert	1	male	USA	Les guetteurs des étoiles		1987	1987	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-258-01936-8	tei	1								Rosenblum, Arlette	Those who watch	1968			yes	no	no	no
+Silverberg_Revivre	yes		Silverberg, Robert	1	male	USA	Revivre encore		1984	1984	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01466-8	tei	1								Rosenblum, Arlette	To live again	1969			yes	no	no	no
+Silverberg_Tour	yes		Silverberg, Robert	1	male	USA	La tour de verre		1972	1972	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01772-1	tei	1								Hilling, Simone	Tower of glass	1970			yes	no	no	no
+Simak_Planete	yes		Simak, Clifford D.	1	male		La planète de Shakespeare		1977	1977	1970s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1								Saunier, Claude	Shakespeare's planet	1976			yes	no	no	no
+Simart_Magicien	no		Simart, Hélène	1	female	FRA	Le magicien noir		1971	1971	1970s	Tallandier	Arc-en-Ciel	sentimental		(unknown)	tei	1													no	yes	no	no
+Simenon_Cage	no	rv0081	Simenon, Georges	1	male	BEL	La Cage de Verre	1971		1971	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Simenon_Disparition	no	rv0093	Simenon, Georges	1	male	BEL	La Disparition d'Odile	1971		1971	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Simenon_Monsieur	no	rv0086	Simenon, Georges	1	male	BEL	Maigret et Monsieur Charles	1972		1972	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Simenon_Seul	no	rv0094	Simenon, Georges	1	male	BEL	Maigret et l'Homme Tout Seul	1971		1971	1970s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Simon_Acacia	no	rv0188	Simon, Claude	1	male	FRA	L'Acacia	1989		1989	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Simon_Georgiques	no	rv0186	Simon, Claude	1	male	FRA	Les Géorgiques	1981		1981	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Simon_Jours	no		Simon, Yves	1	male	FRA	Les jours en couleurs	1971	1971	1971	1970s	Grasset	(unknown)	blanche		978-2-246-06299-8	tei	1													no	no	no	yes
+Simon_Prochain	no		Simon, Yves	1	male	FRA	Le prochain amour		1996	1996	1990s	Grasset		blanche	blanche	2-246-50291-8	tei	1		Teile und Kapitel  Kapitel nicht durchgehend erkannt											no	no	no	yes
+Simon_Tryptique	no	rv0185	Simon, Claude	1	male	FRA	Tryptique	1973		1973	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Siniac_Aime	no		Siniac, Pierre	1	male		Aime le maudit		1991	1991	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-3115-1	tei	1	yes	mehrere Teile											no	no	yes	no
+Slesar_Mort	yes		Slesar, Henry	1	male		Mort pour rire		1985	1985	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1591-1	tei	1		Akte und Szenen						Maslowski, Igor B.	Enter Murderers				no	no	yes	no
+SmithR_Coeur	yes		Smith, Ruth Alana	1	female		De ton cœur à mon  cœur		1992	1992	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07380-3	tei	1		Kapitel nicht durchgehend erkannt						Cazaurane, Anne	Soulbound				no	yes	no	no
+Smith_Corrie	yes		Smith, Joan	1	female		Ma chère Corrie		1989	1989	1980s	Harlequin	Duo Romance	sentimental	populaire	2-280-80425-5	tei	1	no								Dear corrie				no	yes	no	no
+Smith_Randonnee	yes		Smith, Joan	1	female		Randonnée pour une voleuse		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	9-782280-804479	tei	1	no								Thrill of the chase				no	yes	no	no
+Sollers_Femmes	no		Sollers, Philippe	1	male		Femmes		1984	1984	1980s	Gallimard	Collection Folio	blanche	blanche	2-07-037620-6	tei	1	no												no	no	no	yes
+Sommers_Etrange	yes		Sommers, Beverly	1	female		Etrange histoire d'amour		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83274-7	tei	1								Zetsseur, Hubert	Accused				no	yes	no	no
+Sommers_Professeur	yes		Sommers, Beverly	1	female		Le professeur est amoureux		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83269-0	tei	1								du Lindois, Sophie	Outside in				no	yes	no	no
+Sommers_Qui	yes		Sommers, Beverly	1	female		Qui a peur de Joyce Lenahan?		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	9-78228-0832502	tei	1		Titelblatt fehlt  Dépôt légal : mars 1990  Kapitel nicht erkannt						(unknown)	(unknown)				no	yes	no	no
+Spencer_Epouse	yes		Spencer, Candace	1	female		Une épouse romantique		1991	1991	1990s	Harlequin	Rouge Passion	sentimental	populaire	2-280-12362-2	tei	1	no												no	yes	no	no
+Spinrad_Chants	yes		Spinrad, Norman	1	male		Chants des étoiles		1988	1988	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-02098-6	tei	1								Pugi, Jean-Pierre	Songs from the stars	1980			yes	no	no	no
+Spinrad_Miroirs	yes		Spinrad, Norman	1	male		Les miroirs de l'esprit		1986	1986	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01694-6	tei	1								Canet, Charles	Mind Game	1980			yes	no	no	no
+Steiner_Disque	no		Steiner, Kurt	1	male	FRA	Le disque rayé		1970	1970	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1		Kapitel nicht erkannt											yes	no	no	no
+Stephens_Ciel	yes		Stephens, Jeanne	1	female		Comme un ciel d'orage		1990	1990	1990s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83255-0	tei	1		Kapitel nicht durchgehend erkannt						(unknown)	Dangerous Choices				no	yes	no	no
+Stewardson_Coeur	yes		Stewardson, Dawn	1	female		Le coeur secret du Loch Ness		1990	1990	1990s	Harlequin	Collection Or	sentimental	populaire	9-782280-073103	tei	1	no								Deep secret				no	yes	no	no
+Stewardson_Jours	yes		Stewardson, Dawn	1	female		Quelques jours pour aimer		1991	1991	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07345-5	tei	1	no												no	yes	no	no
+Stewardson_Ombre	yes		Stewardson, Dawn	1	female		L'ombre de la lune bleue		1990	1990	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07326-9	tei	1	no												no	yes	no	no
+Stirling_Meurtre	yes		Stirling, Elaine K.	1	female		Meurtre sous hypnose		1990	1990	1990s	Harlequin	Suspense	policier	populaire	2-280-11083-0	tei	1		Kapitel nicht durchgehend erkannt						Lamorlette, Marie-José	Sleepwalker				no	no	yes	no
+Stratton_Incroyable	yes		Stratton, Rachel	1	female		L'incroyable retour		1979	1979	1970s	Harlequin	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Tanugi_Anne	no		Tanugi, Gilbert	1	male	FRA	Anne qui ne voyait rien venir	1979	1979	1979	1970s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0937-7	tei	1													no	no	yes	no
+Tanugi_Week-end	no		Tanugi, Gilbert	1	male	FRA	Week-end chez Alice	1980	1980	1980	1980s	Librairie des Champs-Élysées	Le Masque	policier	populaire	2-7024-0984-9	tei	1													no	no	yes	no
+Thomson_Sous	yes		Thomson, June	1	female		Sous les ponts de Wynford		1987	1987	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1782-5	tei	1													no	no	yes	no
+Thorpe_Seigneur	yes		Thorpe, Kay	1	female	GBR	Le seigneur de l'Amazone		1979	1979	1970s	Harlequin	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Thurlo_Serment	yes		Thurlo, Aimée	1	female		Le serment de Melanie		1989	1989	1980s	Harlequin	Duo Harmonie	sentimental	populaire	2-280-83237-2	tei	1								(unknown)	Expiration Date				no	yes	no	no
+Toombs_Colline	yes		Toombs, Jane	1	female		La colline aux maléfices		1994	1994	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16017-X	tei	1	no	sentimental/fantasy											no	yes	no	no
+Toombs_Fantome	yes		Toombs, Jane	1	female		Le fantôme de la dame en blanc		1995	1995	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16047-1	tei	1	no	sentimental/fantasy							The woman in white				no	yes	no	no
+Tornielle_Lina	no		Tornielle, Camille	1	female		Lina		1987	1987	1980s	Fleuve Noir	Femme Viva	sentimental	populaire	2-265-03517-3	tei	1	no												no	yes	no	no
+Tournier_Gaspard	no	rv0499	Tournier, Michel	1	male	FRA	Gaspard	1980		1980	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Tournier_Goutte	no	rv0498	Tournier, Michel	1	male	FRA	Goutte Or	1985		1985	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Tournier_Meteores	no	rv0497	Tournier, Michel	1	male	FRA	Meteores	1975		1975	1970s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1		Teile und Kapitel											no	no	no	yes
+Toussaint_Appareil	no	rv0518	Toussaint, Jean-Philippe	1	male	BEL	Appareil Photo	1988		1988	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Toussaint_Monsieur	no	rv0521	Toussaint, Jean-Philippe	1	male	BEL	Monsieur	1986		1986	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Toussaint_Salle	no	rv0517	Toussaint, Jean-Philippe	1	male	BEL	Salle Bain	1985		1985	1980s	(unknown)	(unknown)	blanche	blanche	(unknown)	tei	1													no	no	no	yes
+Traverso_Voyoutes	no		Traverso, Frédérique	1	female	FRA	Les Voyoutes		1998	1998	1990s	Grasset		blanche	blanche	2-246-57201-0	tei	1		Kapitel nicht durchgehend erkannt											no	no	no	yes
+Valetti_Labyrinth			Valetti, Oscar	1	male		Labyrinth-jungle		1992	1992	1990s	Fleuve Noir	Anticipation	scifi	populaire	2-265-04772-4	tei	1													yes	no	no	no
+VanDeWetering_Massacre	yes		van de Wetering, Janwillem	1	male		Le Massacre du Maine		1988	1988	1980s	Rivages	Rivages/Noir	policier	populaire	2-86930-130-8	tei	1								May, Denise	The Maine Massacre	1979			no	no	yes	no
+VanVogt_Homme	yes		van Vogt, Alfred Elton	1	male	USA	L'homme multiplié		1976	1976	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1		Kapitel nicht erkannt						Deutsch, Michel	The man with a thousand names				yes	no	no	no
+VanVogt_Lendemains	yes		van Vogt, Alfred Elton	1	male	USA	Des lendemains qui scintillent		1975	1975	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1								Deutsch, Michel	Future glitter				yes	no	no	no
+VanVogt_Silkie	yes		van Vogt, Alfred Elton	1	male	USA	Le Silkie		1978	1978	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-11855-9	tei	1		Kapitel nicht durchgehend erkannt						Watkins, France-Marie	The Silkie				yes	no	no	no
+Vargas_Debout	no	rv1185	Vargas, Fred	1	female	FRA	Debout les Morts	1995		1995	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Vargas_Jeux	no	rv1096	Vargas, Fred	1	female	FRA	Les jeux de l'amour et de la Mort	1986		1986	1980s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Vargas_Peu	no	rv1188	Vargas, Fred	1	female	FRA	Un Peu Plus Loin sur la droite	1996		1996	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1		Kapitel(überschrift) 27 fehlt											no	no	yes	no
+Vargas_Sans	no	rv1187	Vargas, Fred	1	female	FRA	Sans Feu ni lieu	1997		1997	1990s	(unknown)	(unknown)	policier	populaire	(unknown)	tei	1													no	no	yes	no
+Vasilos_Mystere	yes		Vasilos, Tina	1	female		Le mystère Alexios Parris		1992	1992	1990s	Harlequin	Collection Or	sentimental	populaire	2-280-07387-0	tei	1								Cazauran, Anne	Black Night, Amber Morning				no	yes	no	no
+Vautrin_Bulletins	no		Vautrin, Jean	1	male	FRA	A bulletins rouge		1973	1973	1970s	Gallimard	Série noire	policier	populaire	(unknown)	tei	1		Kapitel nicht durchegehend erkannt											no	no	yes	no
+Vautrin_Grand	no		Vautrin, Jean	1	male	FRA	Un grand pas vers le Bon Dieu		1989	1989	1980s	Grasset		blanche	blanche	2-246-40711-7	tei	1		Kapitel nicht durchgehend erkannt											no	no	no	yes
+Veillot_Misandra	no		Veillot, Claude	1	male	FRA	Misandra		1974	1974	1970s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Veinstein_Accordeur	no		Veinstein, Alain	1	male	FRA	L'accordeur		1996	1996	1990s		Folio	blanche	blanche	2-07-040215-0	tei	1		keine Kapitelüberschriften vorhanden											no	no	no	yes
+Venaille_Caballero	no		Venaille, Franck	1	male	FRA	Caballero hôtel		1974	1974	1970s	Les Éditions de Minuit	(unknown)	blanche		2-7073-0031-4	tei	1													no	no	no	yes
+Vila_Boulevard	no		Vilà, Christian	1	male	FRA	Boulevard de l'infini		1999	1999	1990s	Fleuve Noir	SF métal	scifi	populaire	2-265-06479-3	tei	1													yes	no	no	no
+Vila_Iceflyer	no		Vilà, Christian	1	male	FRA	Iceflyer		1997	1997	1990s	Fleuve Noir	SF métal	scifi	populaire	2-265-06167-0	tei	1													yes	no	no	no
+Vila_X	no		Vilà, Christian	1	male	FRA	X		1998	1998	1990s	Fleuve Noir	SF mystère	scifi	populaire	2-265-05906-4	tei	1													yes	no	no	no
+Virmonne_Ginevra	no		Virmonne, Claude	1	female	FRA	Ginevra du Haut-Château		1972	1972	1970s	Tallandier		sentimental		(unknown)	tei	1		(Pseudonym von Marie Mathilde Estelle Decourtiat)											no	yes	no	no
+Volkoff_Guerre	no		Volkoff, Vladimir	1	male	FRA	La guerre des pieuvres		1983	1983	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01305-X	tei	1		Teile und Kapitel											yes	no	no	no
+Volkoff_Metro	no		Volkoff, Vladimir	1	male	FRA	Métro pour l'enfer		1981	1981	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-00983-4	tei	1													yes	no	no	no
+Vonarburg_Silence	no		Vonarburg, Elisabeth	1	female		Le silence de la cité		1981	1981	1980s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+Wagner_Balle	no		Wagner, Roland C.	1	male	FRA	La Balle du néant : suivi de Les ravisseurs quantiques (Les futurs mystères de Paris)		1996	1996	1990s	Fleuve Noir	Les futurs mystères de Paris	scifi	populaire	2-265-06742-3	tei	1													yes	no	no	no
+Wagner_Ravisseurs	no		Wagner, Roland C.	1	male	FRA	Les ravisseurs quantiques		1996	1996	1990s	Fleuve Noir	Les futurs mystères de Paris	scifi	populaire		tei	1		keine Metadaten in der gescannten Version, nur Text											yes	no	no	no
+Wallace_Quatre	yes		Wallace, Edgar	1	male		Les quatre justiciers		1993	1993	1990s	Le Masque	Romans d'aventures	policier	populaire	2-7024-2398-1	tei	1									The four just men				no	no	yes	no
+Ward_Rencontre	yes		Ward, Lynda	1	female		Rencontre au Crépuscule		1990	1990	1990s	Harlequin	Collection Or	sentimental	populaire	978-2-28-007315-8	tei	1		Titelblatt fehlt  Dépôt légal : avril 1990							Leap the moon				no	yes	no	no
+Warren_Gentleman	yes		Warren, Pat	1	female		Le gentleman des gratte-ciel		1988	1988	1980s	Harlequin	Collection Horizon	sentimental	populaire	2-280-01707-5	tei	1									The evolution of Adam				no	yes	no	no
+Watson_Enchassement	yes		Watson, Ian	1	male	GBR	L'enchâssement	1973	1974	1973	1970s	Calmann-Lévy	Le Livre De Poche	blanche		(unknown)	tei	1													no	no	no	yes
+Weale_Inconnu	yes		Weale, Anne	1	female	GBR	Un inconnu couleur de rêve		1979	1979	1970s	Harlequin	Serie Club	sentimental		(unknown)	tei	1		(Pseudonym von Jay Blakeney)											no	yes	no	no
+Weale_Tout	yes		Weale, Anne	1	female	GBR	Tout au bout de l'arc-en-ciel		1987	1987	1970s	Harlequin	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Weale_Villa	yes		Weale, Anne	1	female		La villa des dauphins		1983	1983	1980s	Harlequin	Collection	sentimental	populaire	2-280-00083-0	tei	1		Kapitel nicht erkannt						(unknown)	Portrait of Bethany				no	yes	no	no
+Weyergans_Radeau	no		Weyergans, François	1	male	BEL	Le Radeau de la Méduse		1983	1983	1980s	Gallimard	Folio	blanche	blanche	2-07-0377772-5	tei	1													no	no	no	yes
+Weyergans_Vie	no		Weyergans, François	1	male	BEL	La vie d'un bébé		1986	1986	1980s	Gallimard	Folio	blanche	blanche	2-07-070478-5	tei	1													no	no	no	yes
+Whisenand_Homme	yes		Whisenand, Val	1	female		Un homme au-dessus de tout soupçon		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	978-2-28-080451-6	tei	1		Titleblatt fehlt: Dépôt légal: mars 1990  Kapitel nicht durchgehend erkannt							Treasure hunters				no	yes	no	no
+Wiazemsky_Poignée	no		Wiazemsky, Anne	1	female	FRA	Une poignée de gens		1998	1998	1990s	Gallimard	Collection Blanche	blanche	blanche	2-07-074676-3	tei	1		keine Kapitelüberschriften											no	no	no	yes
+Wilhelm_Oiseaux	yes		Wilhelm, Kate	1	female		Hier, les oiseaux		1977	1977	1970s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1								Audoly, Sylvie	Where late the sweet birds sang	1976			yes	no	no	no
+Wilkins_Coup	yes		Wilkins, Gina	1	female		Coup de cœur, coup de génie		1990	1990	1990s	Harlequin	Duo Desir	sentimental	populaire	9-78228-0852913	tei	1		Titelblatt rausgerissen  Dépôt légal: März 1990  Kapitel nicht durchgehend erkannt						(unknown)	(unknown)				no	yes	no	no
+Williams_Appel	yes		Williams, Ann	1	female		L'appel du futur		1995	1995	1990s	Harlequin	Sixième Sens	sentimental	populaire	2-280-16049-8	tei	1	no	sentimental/fantasy		heterodiegetic			future		Sam's World				no	yes	no	no
+Win_Madison	yes		Win, David	1	male		Madison Avenue		1989	1989	1980s	Harlequin	Grands Romans	sentimental	populaire	2-280-13211-7	tei	1		Kapitel nicht durchgehend erkannt						Ballarin, Charles	Co-Op				no	yes	no	no
+Winspear_Sortilege	yes		Winspear, Violet	1	female	GBR	Sortilège antillais		1979	1979	1970s	Harlequin	(unknown)	sentimental		(unknown)	tei	1													no	yes	no	no
+Wintrebert_Chromoville	no		Wintrebert, Joëlle	1	female	FRA	Chromoville		1984	1984	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-21576-7	tei	1		Kapitel nicht erkannt											yes	no	no	no
+Wintrebert_Maitres-feu	no		Wintrebert, Joëlle	1	female	FRA	Les maîtres-feu		1983	1983	1980s	J'ai lu	Science-Fiction et Fantastique	scifi	populaire	2-277-21408-6	tei	1		Kapitel nicht erkannt											yes	no	no	no
+Woods_Pluie	yes		Woods, Sherryl	1	female		Pluie d'or		1990	1990	1990s	Harlequin	Rouge Passion	sentimental	populaire	2-280-12315-0	tei	1	no												no	yes	no	no
+Wul_Piege	no		Wul, Stefan	1	male	FRA	Piège sur Zarkass		1970	1970	1970s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-00383-6	tei	1		mehrere Teile  Kapitel nicht erkannt  z.T. Buchstaben nicht richtig erkannt											yes	no	no	no
+YoungB_Adieu	yes		Young, Brittany	1	female		L'adieu à Kortina		1990	1990	1990s	Harlequin	Duo Romance	sentimental	populaire	9-782280-804431	tei	1	no												no	yes	no	no
+YoungB_Soeurs	yes		Young, Brittany	1	female		Les soeurs de l'orage		1989	1989	1980s	Harlequin	Duo Romance	sentimental	populaire	2-280-80440-9	tei	1	no								The kiss of a stranger				no	yes	no	no
+YoungK_Lien	yes		Young, Karen	1	female	USA	Lien de coeur		1990	1990	1990s	Harlequin	Collection Or	sentimental	populaire	9-782280-073271	tei	1	no	Kapitel nicht durchgehend erkannt							Compelling connection				no	yes	no	no
+Zelazny_Enfant	yes		Zelazny, Roger	1	male	USA	L'enfant tombé de nulle part		1980	1980	1980s	Presses Pocket	Science-Fiction	scifi	populaire	2-266-01851-5	tei	1								Bailhache, Jean	Changeling				yes	no	no	no
+Zelazny_Signe	yes		Zelazny, Roger	1	male	USA	Le signe de la licorne		1978	1978	1970s	Denoël	Présence du Futur	scifi	populaire	(unknown)	tei	1								Martin, Bruno	Sign of the unicorn	1975			yes	no	no	no
+Zeraffa_Metro			Zéraffa, Michel	1		TUN	Métro aérien		1976	1976	1970s	Christian Bourgeois	(unknown)	blanche		2-6700011-3	tei	1													no	no	no	yes
+Ziegler_Complots	yes		Ziegler, Thomas	1	male	DEU	Complots er trahisons		1988	1988	1980s	Hachette	Haute tension / Spectres	sentimental	populaire	2-01-013772-8	tei	1		Kapitel nicht erkannt						Platte, Roland	Gefangene der Schatten-Welten				no	yes	no	no
+Ziegler_Monstre	yes		Ziegler, Thomas	1	male	DEU	Un monstre à bord		1988	1988	1980s	Hachette	Haute tension / Spectres	sentimental	populaire	2-01-013771-X	tei	1		Kapitel nicht erkannt						Bœuf, Jeannine / Blanc, Bernard	Wo die Echse herrscht				no	yes	no	no
+daNatividadeGaspar_Corps	yes		da Natividade Gaspar, José	1	male	PRT	Les corps sans âme		1988	1988	1980s	Le Masque	Romans d'aventures	policier	populaire	2-7024-1851-1	tei	1								Falcoz, André & Maslowski, Igor B.	O misterio dos corpos sem luz				no	no	yes	no
+deFast_Mort	no		de Fast, Jan	1	male	FRA	La mort surgit de néant		1974	1974	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+deFast_Mutation	no		de Fast, Jan	1	male	FRA	Quatrieme mutation		1973	1973	1970s	Fleuve Noir	Anticipation	scifi	populaire	(unknown)	tei	1													yes	no	no	no
+delCastillo_Rue	no		del Castillo, Michel	1	male	FRA	Rue des Archives		1996	1996	1990s	Gallimard	Collection Folio	blanche	blanche	2-07-039494-8	tei	1	no												no	no	no	yes
+vanWieren_Reves	no		van Wieren, Mona	1	female		Les rêves d'une architecte		1989	1989	1980s	Harlequin	Duo Romance	sentimental	populaire	2-280-80434-4	tei	1													no	yes	no	no
